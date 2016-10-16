@@ -1,6 +1,5 @@
 'use strict'
 
-
 const fs = require( 'fs' )
 const request = require( 'request' )
 const getFile = file => fs.readFileSync( file, 'utf8' )
@@ -15,6 +14,9 @@ const extractData = data => data.split( '\n' )
 	.map( row => ( {
 		name: row[ 1 ],
 		area: row[ 2 ],
+		sublocation: row[ 3 ],
+		address: row[ 4 ],
+		postcode: row[ 5 ],
 		lat: Number( row[ 7 ] ),
 		lon: Number( row[ 8 ] )
 	} ) )

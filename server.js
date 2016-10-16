@@ -2,7 +2,7 @@
 
 require( 'dotenv' ).config()
 
-const build = require( './build/build' )
+require( './build/build' )
 const getData = require( './build/get-data' )
 
 const express = require( 'express' )
@@ -18,17 +18,17 @@ app.get( '/', ( req, res ) => res.render( 'index', Object.assign( {
 }, process.env ) ) )
 app.get( '/pubs.json', ( req, res ) => res.json( pubs ) )
 
-console.log( 'Fetching data' )
+console.info( 'Fetching data' )
 
 getData( ( err, data ) => {
 
 	if ( err ) {
-		console.log( 'Could not fetch pub data. Using cached' )
+		console.info( 'Could not fetch pub data. Using cached' )
 		pubs = require( './pubs.json' )
 	} else {
 		pubs = data
 	}
 
-	console.log( `Got data on ${pubs.length} pubs` )
-	app.listen( process.env.PORT, () => console.log( 'S M I T H B O Y S started' ) )
+	console.info( `Got data on ${pubs.length} pubs` )
+	app.listen( process.env.PORT, () => console.info( 'S M I T H B O Y S started' ) )
 } )

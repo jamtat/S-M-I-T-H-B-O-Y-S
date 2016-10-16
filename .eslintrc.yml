@@ -1,4 +1,6 @@
 env:
+  node: true
+  browser: true
   commonjs: true
   es6: true
 extends: 'eslint:recommended'
@@ -6,6 +8,9 @@ parserOptions:
   sourceType: module
 globals:
   console: true
+  google: true
+  initMap: true
+  pubs: true
 rules:
   indent:
     - error
@@ -16,11 +21,13 @@ rules:
   quotes:
     - error
     - single
+    - allowTemplateLiterals: true
   semi:
     - error
     - never
   no-console:
     - error
     - allow:
+      - info
       - warn
       - error

@@ -1,7 +1,6 @@
 'use strict'
 
 const less = require( 'less' )
-const fs = require( 'fs' )
 const utils = require( './utils' )
 
 const LessOptions = {
@@ -16,7 +15,7 @@ const compileLess = () => {
 			output => {
 				utils.writeFile( 'static/smithboys.css', output.css )
 			},
-			error => console.log( error )
+			error => console.error( error )
 		)
 }
 
