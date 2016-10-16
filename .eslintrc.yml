@@ -1,0 +1,26 @@
+env:
+  commonjs: true
+  es6: true
+extends: 'eslint:recommended'
+parserOptions:
+  sourceType: module
+globals:
+  console: true
+rules:
+  indent:
+    - error
+    - tab
+  linebreak-style:
+    - error
+    - unix
+  quotes:
+    - error
+    - single
+  semi:
+    - error
+    - never
+  no-console:
+    - error
+    - allow:
+      - warn
+      - error

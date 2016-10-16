@@ -1,0 +1,13 @@
+doctype
+
+html
+
+	head
+		title S M I T H B O Y S
+		link(rel='stylesheet' href='/static/smithboys.css')
+
+	body
+		script(async, defer, src=`https://maps.googleapis.com/maps/api/js?key=${GMAPS_API_KEY}&callback=initMap`)
+		script
+			!= `var pubs = ${JSON.stringify(pubs)}`
+		script(async, defer, src=`/static/smithboys.js`)

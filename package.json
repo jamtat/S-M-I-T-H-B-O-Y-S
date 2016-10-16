@@ -1,0 +1,34 @@
+{
+  "name": "smithboys",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamtat/S-M-I-T-H-B-O-Y-S.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamtat/S-M-I-T-H-B-O-Y-S/issues"
+  },
+  "homepage": "https://github.com/jamtat/S-M-I-T-H-B-O-Y-S#readme",
+  "dependencies": {
+    "babel-preset-es2015": "^6.16.0",
+    "babelify": "^7.3.0",
+    "browserify": "^13.1.0",
+    "chokidar": "^1.6.1",
+    "dotenv": "^2.0.0",
+    "express": "^4.14.0",
+    "fs-extra": "^0.30.0",
+    "less": "^2.7.1",
+    "pug": "^2.0.0-beta6",
+    "request": "^2.75.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.8.0"
+  }
+}
