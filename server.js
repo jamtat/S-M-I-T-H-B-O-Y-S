@@ -32,8 +32,8 @@ getData( ( err, data ) => {
 	}
 
 	console.info( `Got data on ${pubs.length} pubs` )
-	const host = process.env.OPENSHIFT_DIY_IP ? process.env.OPENSHIFT_DIY_IP : ''
-	const port = process.env.OPENSHIFT_DIY_PORT ? process.env.OPENSHIFT_DIY_PORT : 9003
+	const host = process.env.OPENSHIFT_NODEJS_IP ? process.env.OPENSHIFT_NODEJS_IP : ''
+	const port = process.env.OPENSHIFT_NODEJS_PORT ? process.env.OPENSHIFT_NODEJS_PORT : 9003
 
 	console.info( `Listening on ${host}:${port}` )
 
