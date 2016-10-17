@@ -12,6 +12,10 @@ let pubs = null
 
 app.set( 'view engine', 'pug' )
 
+app.use( '/health', ( req, res ) => res.status( 200 ).end() )
+
+app.use( '/env', ( req, res ) => res.send( `Version: ${process.version}` ) )
+
 app.use( '/static', express.static( __dirname + '/static' ) )
 app.get( '/', ( req, res ) => res.render( 'index', Object.assign( {
 	pubs
@@ -30,5 +34,12 @@ getData( ( err, data ) => {
 	}
 
 	console.info( `Got data on ${pubs.length} pubs` )
-	app.listen( process.env.PORT, () => console.info( 'S M I T H B O Y S started' ) )
+	const host = process.env.OPENSHIFT_DIY_IP ? process.env.OPENSHIFT_DIY_IP : ''
+	const port = process.env.OPENSHIFT_DIY_PORT ? process.env.OPENSHIFT_DIY_PORT : process.env.PORT
+
+	if ( host ) {
+		app.listen( host, port, () => console.info( 'S M I T H B O Y S started' ) )
+	} else {
+		app.listen( port, () => console.info( 'S M I T H B O Y S started' ) )
+	}
 } )
