@@ -5,8 +5,8 @@
 		"sublocation": "",
 		"address": "21-23 Albion Street",
 		"postcode": "BD1 2LY",
-		"lat": 53.794462,
-		"lon": -1.758122
+		"latitude": 53.794462,
+		"longitude": -1.758122
 	},
 	{
 		"name": "Alexandra WMC",
@@ -14,8 +14,8 @@
 		"sublocation": "Royston",
 		"address": "High Street",
 		"postcode": "S71 4RF",
-		"lat": 53.599086,
-		"lon": -1.4622674
+		"latitude": 53.599086,
+		"longitude": -1.4622674
 	},
 	{
 		"name": "The Abbey",
@@ -23,8 +23,8 @@
 		"sublocation": "Darley Abbey",
 		"address": "Darley Street",
 		"postcode": "DE22 1DX",
-		"lat": 52.94211,
-		"lon": -1.47652
+		"latitude": 52.94211,
+		"longitude": -1.47652
 	},
 	{
 		"name": "The Anchor Tap",
@@ -32,8 +32,8 @@
 		"sublocation": "Bermondsey",
 		"address": "28, Horselydown Lane",
 		"postcode": "SE1 2LN",
-		"lat": 51.50338811,
-		"lon": -0.0760998
+		"latitude": 51.50338811,
+		"longitude": -0.0760998
 	},
 	{
 		"name": "The Anerley Arms",
@@ -41,8 +41,8 @@
 		"sublocation": "Anerley",
 		"address": "2, Ridsdale Road",
 		"postcode": "SE20 8AG",
-		"lat": 51.41253,
-		"lon": -0.06632
+		"latitude": 51.41253,
+		"longitude": -0.06632
 	},
 	{
 		"name": "The Angel",
@@ -50,8 +50,8 @@
 		"sublocation": "Soho",
 		"address": "61, St. Giles High Street",
 		"postcode": "WC2H 8LE",
-		"lat": 51.51547,
-		"lon": -0.12768
+		"latitude": 51.51547,
+		"longitude": -0.12768
 	},
 	{
 		"name": "The Angel",
@@ -59,8 +59,8 @@
 		"sublocation": "Bermondsey",
 		"address": "101 Bermondsey Wall East",
 		"postcode": "SE16 4NB",
-		"lat": 51.500515,
-		"lon": -0.058837
+		"latitude": 51.500515,
+		"longitude": -0.058837
 	},
 	{
 		"name": "The Angel and White Horse",
@@ -68,8 +68,8 @@
 		"sublocation": "",
 		"address": "23 Bridge Street",
 		"postcode": "LS24 9AW",
-		"lat": 53.88423,
-		"lon": -1.26075
+		"latitude": 53.88423,
+		"longitude": -1.26075
 	},
 	{
 		"name": "The Angel in the Fields",
@@ -77,8 +77,8 @@
 		"sublocation": "",
 		"address": "37 Thayer Street",
 		"postcode": "W1U 2QU",
-		"lat": 51.51768,
-		"lon": -0.15017
+		"latitude": 51.51768,
+		"longitude": -0.15017
 	},
 	{
 		"name": "The Angel Inn",
@@ -86,8 +86,8 @@
 		"sublocation": "",
 		"address": "Angel Inn Yard",
 		"postcode": "LS1 6LN",
-		"lat": 53.79815,
-		"lon": -1.54269
+		"latitude": 53.79815,
+		"longitude": -1.54269
 	},
 	{
 		"name": "The Bay Horse",
@@ -95,8 +95,8 @@
 		"sublocation": "",
 		"address": "11 Commercial Street",
 		"postcode": "LS24 8AB",
-		"lat": 53.88596449,
-		"lon": -1.25886385
+		"latitude": 53.88596449,
+		"longitude": -1.25886385
 	},
 	{
 		"name": "The Blue Posts",
@@ -104,8 +104,8 @@
 		"sublocation": "Fitzrovia",
 		"address": "81 Newman Street",
 		"postcode": "W1T 3ET",
-		"lat": 51.51706075,
-		"lon": -0.13537106
+		"latitude": 51.51706075,
+		"longitude": -0.13537106
 	},
 	{
 		"name": "The Bricklayers Arms",
@@ -113,8 +113,8 @@
 		"sublocation": "Fitzrovia",
 		"address": "31 Gresse Street",
 		"postcode": "W1T 1QS",
-		"lat": 51.5177116,
-		"lon": -0.13346974
+		"latitude": 51.5177116,
+		"longitude": -0.13346974
 	},
 	{
 		"name": "The Captain Kidd",
@@ -122,8 +122,8 @@
 		"sublocation": "Wapping",
 		"address": "108 Wapping High Street",
 		"postcode": "E1W 2NE ",
-		"lat": 51.50303,
-		"lon": -0.0601
+		"latitude": 51.50303,
+		"longitude": -0.0601
 	},
 	{
 		"name": "Windsor Castle",
@@ -131,8 +131,8 @@
 		"sublocation": "Victoria",
 		"address": "23 Francis Street",
 		"postcode": "SW1P 1DN",
-		"lat": 51.49521001,
-		"lon": -0.13784945
+		"latitude": 51.49521001,
+		"longitude": -0.13784945
 	},
 	{
 		"name": "The Champion",
@@ -140,8 +140,8 @@
 		"sublocation": "Fitzrovia",
 		"address": "13 Wells Street",
 		"postcode": "W1T 3PA",
-		"lat": 51.517209,
-		"lon": -0.137415
+		"latitude": 51.517209,
+		"longitude": -0.137415
 	},
 	{
 		"name": "The Chandos",
@@ -149,8 +149,8 @@
 		"sublocation": "Covent Garden",
 		"address": "29 St Martins Lane",
 		"postcode": "WC2N 4ER",
-		"lat": 51.50955505,
-		"lon": -0.12683632
+		"latitude": 51.50955505,
+		"longitude": -0.12683632
 	},
 	{
 		"name": "The Cheshire Midland",
@@ -158,8 +158,8 @@
 		"sublocation": "",
 		"address": "Ashley Road",
 		"postcode": "WA14 2UL",
-		"lat": 53.378247,
-		"lon": -2.347708
+		"latitude": 53.378247,
+		"longitude": -2.347708
 	},
 	{
 		"name": "The Circus Bar",
@@ -167,8 +167,8 @@
 		"sublocation": "",
 		"address": "5, Queens Circus",
 		"postcode": "GL50 1RX",
-		"lat": 51.89665,
-		"lon": -2.08092
+		"latitude": 51.89665,
+		"longitude": -2.08092
 	},
 	{
 		"name": "The Cittie of Yorke",
@@ -176,8 +176,8 @@
 		"sublocation": "",
 		"address": "22 High Holborn",
 		"postcode": "WC1V 6BN",
-		"lat": 51.51849,
-		"lon": -0.11258
+		"latitude": 51.51849,
+		"longitude": -0.11258
 	},
 	{
 		"name": "The Cock",
@@ -185,8 +185,8 @@
 		"sublocation": "",
 		"address": "27 Great Portland Street",
 		"postcode": "W1W 8QE",
-		"lat": 51.51670958,
-		"lon": -0.14134457
+		"latitude": 51.51670958,
+		"longitude": -0.14134457
 	},
 	{
 		"name": "The Colpitts Hotel",
@@ -194,8 +194,8 @@
 		"sublocation": "",
 		"address": "Hawthorn Terrace",
 		"postcode": "DH1 4EL",
-		"lat": 54.77604065,
-		"lon": -1.58510432
+		"latitude": 54.77604065,
+		"longitude": -1.58510432
 	},
 	{
 		"name": "The Cramond Inn",
@@ -203,8 +203,8 @@
 		"sublocation": "",
 		"address": "30 Cramond Glebe Road",
 		"postcode": "EH4 6NT",
-		"lat": 55.97987451,
-		"lon": -3.29999455
+		"latitude": 55.97987451,
+		"longitude": -3.29999455
 	},
 	{
 		"name": "The Cricketers Arms",
@@ -212,8 +212,8 @@
 		"sublocation": "",
 		"address": "Market Place, Selby",
 		"postcode": "YO8 4PB",
-		"lat": 53.78386688,
-		"lon": -1.06972953
+		"latitude": 53.78386688,
+		"longitude": -1.06972953
 	},
 	{
 		"name": "The Crown",
@@ -221,8 +221,8 @@
 		"sublocation": "Bloomsbury",
 		"address": "51, New Oxford Street",
 		"postcode": "WC1A 1BL",
-		"lat": 51.51684,
-		"lon": -0.12663
+		"latitude": 51.51684,
+		"longitude": -0.12663
 	},
 	{
 		"name": "The Crown and Sugarloaf",
@@ -230,8 +230,8 @@
 		"sublocation": "",
 		"address": "98-99 Fleet Street",
 		"postcode": "EC4Y 1DE",
-		"lat": 51.514017,
-		"lon": -0.104812
+		"latitude": 51.514017,
+		"longitude": -0.104812
 	},
 	{
 		"name": "The Dover Castle",
@@ -239,8 +239,8 @@
 		"sublocation": "Marylebone",
 		"address": "43, Weymouth Mews",
 		"postcode": "W1G 7EH",
-		"lat": 51.51994,
-		"lon": -0.14616
+		"latitude": 51.51994,
+		"longitude": -0.14616
 	},
 	{
 		"name": "The Duke of Argyll",
@@ -248,8 +248,8 @@
 		"sublocation": "Soho",
 		"address": "37, Brewer Street",
 		"postcode": "W1D 7LQ",
-		"lat": 51.51175,
-		"lon": -0.13457
+		"latitude": 51.51175,
+		"longitude": -0.13457
 	},
 	{
 		"name": "The Earl of Lonsdale",
@@ -257,8 +257,8 @@
 		"sublocation": "Notting Hill",
 		"address": "277-281 Westbourne Grove",
 		"postcode": "W11 2QA",
-		"lat": 51.51328,
-		"lon": -0.20338
+		"latitude": 51.51328,
+		"longitude": -0.20338
 	},
 	{
 		"name": "The Fitzroy Tavern",
@@ -266,8 +266,8 @@
 		"sublocation": "Fitzrovia",
 		"address": "16 Charlotte Street",
 		"postcode": "W1T 2NA",
-		"lat": 51.51856782,
-		"lon": -0.13473574
+		"latitude": 51.51856782,
+		"longitude": -0.13473574
 	},
 	{
 		"name": "The Gazebo",
@@ -275,8 +275,8 @@
 		"sublocation": "Kingston Upon Thames",
 		"address": "Kings Passage, Thames Street",
 		"postcode": "KT1 1PE",
-		"lat": 51.41053,
-		"lon": -0.30666
+		"latitude": 51.41053,
+		"longitude": -0.30666
 	},
 	{
 		"name": "The Glasshouse Stores",
@@ -284,8 +284,8 @@
 		"sublocation": "Soho",
 		"address": "55 Brewer Street",
 		"postcode": "W1F 9UJ",
-		"lat": 51.511431,
-		"lon": -0.135341
+		"latitude": 51.511431,
+		"longitude": -0.135341
 	},
 	{
 		"name": "The Green Dragon",
@@ -293,8 +293,8 @@
 		"sublocation": "",
 		"address": "8 Finkle Street",
 		"postcode": "TS18 1AR",
-		"lat": 54.5642,
-		"lon": -1.31181
+		"latitude": 54.5642,
+		"longitude": -1.31181
 	},
 	{
 		"name": "The Horse and Groom",
@@ -302,8 +302,8 @@
 		"sublocation": "",
 		"address": "128, Great Portland Street",
 		"postcode": "W1W 6PX ",
-		"lat": 51.52005,
-		"lon": -0.14249
+		"latitude": 51.52005,
+		"longitude": -0.14249
 	},
 	{
 		"name": "Howden Arms",
@@ -311,8 +311,8 @@
 		"sublocation": "",
 		"address": "40 High Street",
 		"postcode": "LS24 9AT",
-		"lat": 53.88356,
-		"lon": -1.26263
+		"latitude": 53.88356,
+		"longitude": -1.26263
 	},
 	{
 		"name": "The John Snow",
@@ -320,8 +320,8 @@
 		"sublocation": "Soho",
 		"address": "39, Broadwick Street",
 		"postcode": "W1F 9QP",
-		"lat": 51.5133461,
-		"lon": -0.1365602
+		"latitude": 51.5133461,
+		"longitude": -0.1365602
 	},
 	{
 		"name": "The King William",
@@ -329,8 +329,8 @@
 		"sublocation": "",
 		"address": "20 King Street",
 		"postcode": "BS1 4EF",
-		"lat": 51.4517,
-		"lon": -2.5945
+		"latitude": 51.4517,
+		"longitude": -2.5945
 	},
 	{
 		"name": "The Kings Arms",
@@ -338,8 +338,8 @@
 		"sublocation": "",
 		"address": "Kings Staith",
 		"postcode": "YO1 9SN",
-		"lat": 53.95694,
-		"lon": -1.08287
+		"latitude": 53.95694,
+		"longitude": -1.08287
 	},
 	{
 		"name": "The Lyceum",
@@ -347,8 +347,8 @@
 		"sublocation": "",
 		"address": "354, Strand",
 		"postcode": "WC2R 0HS",
-		"lat": 51.51123,
-		"lon": -0.11989
+		"latitude": 51.51123,
+		"longitude": -0.11989
 	},
 	{
 		"name": "The Malt Shovels",
@@ -356,8 +356,8 @@
 		"sublocation": "",
 		"address": "68 Stamford Street",
 		"postcode": "WA14 1EY",
-		"lat": 53.38909,
-		"lon": -2.34798
+		"latitude": 53.38909,
+		"longitude": -2.34798
 	},
 	{
 		"name": "The Nag's Head Hotel",
@@ -365,8 +365,8 @@
 		"sublocation": "Chapel Allerton",
 		"address": "10 Town Street",
 		"postcode": "LS7 4NB",
-		"lat": 53.82875,
-		"lon": -1.537228
+		"latitude": 53.82875,
+		"longitude": -1.537228
 	},
 	{
 		"name": "The Old Boot Inn",
@@ -374,8 +374,8 @@
 		"sublocation": "",
 		"address": "9 Eastgate Street",
 		"postcode": "CH1 1LG ",
-		"lat": 53.19084,
-		"lon": -2.88898
+		"latitude": 53.19084,
+		"longitude": -2.88898
 	},
 	{
 		"name": "The Ordnance Arms",
@@ -383,8 +383,8 @@
 		"sublocation": "St. John's Wood",
 		"address": "29 Ordnance Hill",
 		"postcode": "NW8 6PS",
-		"lat": 51.5360605,
-		"lon": -0.17185607
+		"latitude": 51.5360605,
+		"longitude": -0.17185607
 	},
 	{
 		"name": "The Princess Louise",
@@ -392,8 +392,8 @@
 		"sublocation": "",
 		"address": "208-209 High Holborn",
 		"postcode": "WC1V 7BW",
-		"lat": 51.51727,
-		"lon": -0.12167
+		"latitude": 51.51727,
+		"longitude": -0.12167
 	},
 	{
 		"name": "The Red Lion",
@@ -401,8 +401,8 @@
 		"sublocation": "Soho",
 		"address": "14, Kingly Street",
 		"postcode": "W1B 5PP",
-		"lat": 51.512615,
-		"lon": -0.139113
+		"latitude": 51.512615,
+		"longitude": -0.139113
 	},
 	{
 		"name": "The Rising Sun",
@@ -410,8 +410,8 @@
 		"sublocation": "Smithfield",
 		"address": "38, Cloth Fair",
 		"postcode": "EC1A 7JQ",
-		"lat": 51.51912,
-		"lon": -0.09974
+		"latitude": 51.51912,
+		"longitude": -0.09974
 	},
 	{
 		"name": "The Eagle",
@@ -419,8 +419,8 @@
 		"sublocation": "Maida Vale",
 		"address": "15, Clifton Road",
 		"postcode": "W9 1SY",
-		"lat": 51.52527,
-		"lon": -0.17944
+		"latitude": 51.52527,
+		"longitude": -0.17944
 	},
 	{
 		"name": "The Rose and Crown",
@@ -428,8 +428,8 @@
 		"sublocation": "",
 		"address": "Main Street",
 		"postcode": "YO23 3PT",
-		"lat": 53.92411,
-		"lon": -1.18333
+		"latitude": 53.92411,
+		"longitude": -1.18333
 	},
 	{
 		"name": "The Royal Oak",
@@ -437,8 +437,8 @@
 		"sublocation": "",
 		"address": "8 Wighill Lane",
 		"postcode": "LS24 8EX",
-		"lat": 53.88735089,
-		"lon": -1.25767295
+		"latitude": 53.88735089,
+		"longitude": -1.25767295
 	},
 	{
 		"name": "The Royal Oak",
@@ -446,8 +446,8 @@
 		"sublocation": " Ulley",
 		"address": "12 Turnshaw Road",
 		"postcode": "S26 3YG",
-		"lat": 53.38194,
-		"lon": -1.30162
+		"latitude": 53.38194,
+		"longitude": -1.30162
 	},
 	{
 		"name": "The Seahorse Hotel",
@@ -455,8 +455,8 @@
 		"sublocation": "",
 		"address": "4 Fawcett Street",
 		"postcode": "YO10 4AH",
-		"lat": 53.95325,
-		"lon": -1.07573
+		"latitude": 53.95325,
+		"longitude": -1.07573
 	},
 	{
 		"name": "The Sun Inn",
@@ -464,8 +464,8 @@
 		"sublocation": " Long Marston",
 		"address": "York Road",
 		"postcode": "YO26 7PG",
-		"lat": 53.95418,
-		"lon": -1.23624
+		"latitude": 53.95418,
+		"longitude": -1.23624
 	},
 	{
 		"name": "The Swan & Three Cygnets",
@@ -473,8 +473,8 @@
 		"sublocation": "",
 		"address": "Durham",
 		"postcode": "DH1 3AG",
-		"lat": 54.77585191,
-		"lon": -1.57276616
+		"latitude": 54.77585191,
+		"longitude": -1.57276616
 	},
 	{
 		"name": "The Town Wharf",
@@ -482,8 +482,8 @@
 		"sublocation": "Old Isleworth",
 		"address": "Swan Street",
 		"postcode": "TW7 6RJ",
-		"lat": 51.46884,
-		"lon": -0.32313
+		"latitude": 51.46884,
+		"longitude": -0.32313
 	},
 	{
 		"name": "The Wellington",
@@ -491,8 +491,8 @@
 		"sublocation": "",
 		"address": "47, Alma Terrace, off Fulford Road",
 		"postcode": "YO10 4DL",
-		"lat": 53.94734,
-		"lon": -1.07756
+		"latitude": 53.94734,
+		"longitude": -1.07756
 	},
 	{
 		"name": "The White Horse",
@@ -500,8 +500,8 @@
 		"sublocation": "Soho",
 		"address": "45 Rupert Street",
 		"postcode": "W1D 7PB",
-		"lat": 51.51183221,
-		"lon": -0.13354202
+		"latitude": 51.51183221,
+		"longitude": -0.13354202
 	},
 	{
 		"name": "The Yorkshire Grey",
@@ -509,8 +509,8 @@
 		"sublocation": "Fitzrovia",
 		"address": "46 Langham Street",
 		"postcode": "W1W 7AX",
-		"lat": 51.51902179,
-		"lon": -0.14138762
+		"latitude": 51.51902179,
+		"longitude": -0.14138762
 	},
 	{
 		"name": "The Three Goats Heads",
@@ -518,8 +518,8 @@
 		"sublocation": "",
 		"address": "3A St. Michaels Street",
 		"postcode": "OX1 2DR",
-		"lat": 51.75336,
-		"lon": -1.25929
+		"latitude": 51.75336,
+		"longitude": -1.25929
 	},
 	{
 		"name": "Ye Olde Cheshire Cheese",
@@ -527,8 +527,8 @@
 		"sublocation": "",
 		"address": "Wine Office Court, 145 Fleet Street",
 		"postcode": "EC4A 2BU",
-		"lat": 51.51438,
-		"lon": -0.10735
+		"latitude": 51.51438,
+		"longitude": -0.10735
 	},
 	{
 		"name": "Ye Olde Swiss Cottage",
@@ -536,8 +536,8 @@
 		"sublocation": "Swiss Cottage",
 		"address": "98 Finchley Road",
 		"postcode": "NW3 5EL",
-		"lat": 51.54245,
-		"lon": -0.17449
+		"latitude": 51.54245,
+		"longitude": -0.17449
 	},
 	{
 		"name": "Ye Olde White Horse",
@@ -545,8 +545,8 @@
 		"sublocation": "",
 		"address": "Churchgate",
 		"postcode": "PE11 2RA",
-		"lat": 52.784843,
-		"lon": -0.147833
+		"latitude": 52.784843,
+		"longitude": -0.147833
 	},
 	{
 		"name": "The Burns Hotel (ex Hansom Cab)",
@@ -554,8 +554,8 @@
 		"sublocation": "",
 		"address": "23 Market Strett",
 		"postcode": "YO1 8SL",
-		"lat": 53.95885049,
-		"lon": -1.081659794
+		"latitude": 53.95885049,
+		"longitude": -1.081659794
 	},
 	{
 		"name": "The Ivanhoe ",
@@ -563,8 +563,8 @@
 		"sublocation": "Sprotbrough",
 		"address": "Melton Road",
 		"postcode": "DN5 7NS",
-		"lat": 53.51494976,
-		"lon": -1.18331534
+		"latitude": 53.51494976,
+		"longitude": -1.18331534
 	},
 	{
 		"name": "The Botolph Arms",
@@ -572,8 +572,8 @@
 		"sublocation": "Orton Longueville",
 		"address": "465 Oundle Road",
 		"postcode": "PE2 7DD",
-		"lat": 52.55988365,
-		"lon": -0.26957256
+		"latitude": 52.55988365,
+		"longitude": -0.26957256
 	},
 	{
 		"name": "The Brigadier Gerard",
@@ -581,8 +581,8 @@
 		"sublocation": "",
 		"address": "84 Monkgate",
 		"postcode": "YO31 7PF",
-		"lat": 53.964493,
-		"lon": -1.074536
+		"latitude": 53.964493,
+		"longitude": -1.074536
 	},
 	{
 		"name": "The York Arms",
@@ -590,8 +590,8 @@
 		"sublocation": "",
 		"address": "26 High Petergate",
 		"postcode": "YO1 7EH",
-		"lat": 53.962246,
-		"lon": -1.083956
+		"latitude": 53.962246,
+		"longitude": -1.083956
 	},
 	{
 		"name": "The Rose of York",
@@ -599,8 +599,8 @@
 		"sublocation": "Richmond Upon Thames",
 		"address": "Petersham Road",
 		"postcode": "TW10 6UY",
-		"lat": 51.45063,
-		"lon": -0.300192
+		"latitude": 51.45063,
+		"longitude": -0.300192
 	},
 	{
 		"name": "Whitegates Hotel",
@@ -608,8 +608,8 @@
 		"sublocation": "Forest Town",
 		"address": "Clipstone Road East",
 		"postcode": "NG19 0HS",
-		"lat": 53.158036,
-		"lon": -1.145797
+		"latitude": 53.158036,
+		"longitude": -1.145797
 	},
 	{
 		"name": "The Tiger Inn",
@@ -617,8 +617,8 @@
 		"sublocation": "Haxby",
 		"address": "29 The Village",
 		"postcode": "YO32 3HS",
-		"lat": 54.01615517,
-		"lon": -1.07305952
+		"latitude": 54.01615517,
+		"longitude": -1.07305952
 	},
 	{
 		"name": "The Royal George",
@@ -626,8 +626,8 @@
 		"sublocation": "Deptford",
 		"address": "85 Tanners Hill",
 		"postcode": "SE8 4QD",
-		"lat": 51.471867,
-		"lon": -0.028678
+		"latitude": 51.471867,
+		"longitude": -0.028678
 	},
 	{
 		"name": "The Hare and Hounds Inn",
@@ -635,8 +635,8 @@
 		"sublocation": "",
 		"address": "Manor Road",
 		"postcode": "LS24 9BR",
-		"lat": 53.86665098,
-		"lon": -1.27165159
+		"latitude": 53.86665098,
+		"longitude": -1.27165159
 	},
 	{
 		"name": "The Old Red Lion",
@@ -644,8 +644,8 @@
 		"sublocation": "",
 		"address": "2 Meadow Lane",
 		"postcode": "LS1 7BT",
-		"lat": 53.79285,
-		"lon": -1.542281
+		"latitude": 53.79285,
+		"longitude": -1.542281
 	},
 	{
 		"name": "The Duncan",
@@ -653,8 +653,8 @@
 		"sublocation": "",
 		"address": "Duncan Street",
 		"postcode": "LS1 6DQ",
-		"lat": 53.79583693,
-		"lon": -1.54139317
+		"latitude": 53.79583693,
+		"longitude": -1.54139317
 	},
 	{
 		"name": "The General Elliot",
@@ -662,8 +662,8 @@
 		"sublocation": "",
 		"address": "33 Vicar Lane",
 		"postcode": "LS1 6DS",
-		"lat": 53.79705774,
-		"lon": -1.54042771
+		"latitude": 53.79705774,
+		"longitude": -1.54042771
 	},
 	{
 		"name": "The Barley Corn",
@@ -671,8 +671,8 @@
 		"sublocation": "Scholes",
 		"address": "68 Main Street",
 		"postcode": "LS15 4DH",
-		"lat": 53.823608,
-		"lon": -1.420627
+		"latitude": 53.823608,
+		"longitude": -1.420627
 	},
 	{
 		"name": "The Eagle Tavern",
@@ -680,8 +680,8 @@
 		"sublocation": "",
 		"address": "North Street",
 		"postcode": "LS7 1AF",
-		"lat": 53.805986,
-		"lon": -1.535361
+		"latitude": 53.805986,
+		"longitude": -1.535361
 	},
 	{
 		"name": "The Moorhouse Inn",
@@ -689,8 +689,8 @@
 		"sublocation": "",
 		"address": "Moor Crescent",
 		"postcode": "LS11 5NQ",
-		"lat": 53.781409,
-		"lon": -1.543483
+		"latitude": 53.781409,
+		"longitude": -1.543483
 	},
 	{
 		"name": "The New Inn",
@@ -698,8 +698,8 @@
 		"sublocation": "Gildersome",
 		"address": "Church Street",
 		"postcode": "LS27 7AE",
-		"lat": 53.759824,
-		"lon": -1.634388
+		"latitude": 53.759824,
+		"longitude": -1.634388
 	},
 	{
 		"name": "The Butchers Arms",
@@ -707,8 +707,8 @@
 		"sublocation": "Pudsey",
 		"address": "30, Church Lane",
 		"postcode": "LS28 7RF",
-		"lat": 53.795062,
-		"lon": -1.664933
+		"latitude": 53.795062,
+		"longitude": -1.664933
 	},
 	{
 		"name": "The Hark To Topper",
@@ -716,8 +716,8 @@
 		"sublocation": "",
 		"address": "Bow Street",
 		"postcode": "OL1 1SJ",
-		"lat": 53.54197123,
-		"lon": -2.10829427
+		"latitude": 53.54197123,
+		"longitude": -2.10829427
 	},
 	{
 		"name": "The Ye Olde Blue Bell (The Blue Bell)",
@@ -725,8 +725,8 @@
 		"sublocation": "",
 		"address": "114 Church Street",
 		"postcode": "PR1 3BS",
-		"lat": 53.75992101,
-		"lon": -2.69313117
+		"latitude": 53.75992101,
+		"longitude": -2.69313117
 	},
 	{
 		"name": "The Fox & Hounds",
@@ -734,8 +734,8 @@
 		"sublocation": "",
 		"address": "18 Leeds Road",
 		"postcode": "LS24 9HB",
-		"lat": 53.8827012,
-		"lon": -1.26510968
+		"latitude": 53.8827012,
+		"longitude": -1.26510968
 	},
 	{
 		"name": "The Britannia Inn",
@@ -743,8 +743,8 @@
 		"sublocation": "",
 		"address": "2 Commercial Street",
 		"postcode": "LS24 8AA",
-		"lat": 53.88525764,
-		"lon": -1.25927856
+		"latitude": 53.88525764,
+		"longitude": -1.25927856
 	},
 	{
 		"name": "The Railway Inn",
@@ -752,8 +752,8 @@
 		"sublocation": "",
 		"address": "Park Terrace",
 		"postcode": "HG3 1BW",
-		"lat": 53.95012554,
-		"lon": -1.44135763
+		"latitude": 53.95012554,
+		"longitude": -1.44135763
 	},
 	{
 		"name": "Widow Cullen's Well",
@@ -761,8 +761,8 @@
 		"sublocation": "",
 		"address": "29, Steep Hill",
 		"postcode": "LN2 1LU",
-		"lat": 53.23337718,
-		"lon": -0.53855826
+		"latitude": 53.23337718,
+		"longitude": -0.53855826
 	},
 	{
 		"name": "The Golden Lion",
@@ -770,8 +770,8 @@
 		"sublocation": "",
 		"address": "49, West Street",
 		"postcode": "PE10 9NB",
-		"lat": 52.76793568,
-		"lon": -0.37887563
+		"latitude": 52.76793568,
+		"longitude": -0.37887563
 	},
 	{
 		"name": "Sinclair's Oyster Bar",
@@ -779,8 +779,8 @@
 		"sublocation": "",
 		"address": "2 Cathedral Gates",
 		"postcode": "M3 1SW",
-		"lat": 53.48448956,
-		"lon": -2.24382629
+		"latitude": 53.48448956,
+		"longitude": -2.24382629
 	},
 	{
 		"name": "The Tivoli",
@@ -788,8 +788,8 @@
 		"sublocation": "",
 		"address": "244 Marine Road Central",
 		"postcode": "LA4 4BJ",
-		"lat": 54.07263815,
-		"lon": -2.86797096
+		"latitude": 54.07263815,
+		"longitude": -2.86797096
 	},
 	{
 		"name": "The Brown Bear",
@@ -797,8 +797,8 @@
 		"sublocation": "",
 		"address": "109 Norfolk Street",
 		"postcode": "S1 2JE",
-		"lat": 53.38055879,
-		"lon": -1.46822264
+		"latitude": 53.38055879,
+		"longitude": -1.46822264
 	},
 	{
 		"name": "The Sir Gawain and The Green Knight",
@@ -806,8 +806,8 @@
 		"sublocation": "Connahs Quay",
 		"address": "Golftyn Lane",
 		"postcode": "CH5 4BH",
-		"lat": 53.22330176,
-		"lon": -3.07596018
+		"latitude": 53.22330176,
+		"longitude": -3.07596018
 	},
 	{
 		"name": "The Falcon",
@@ -815,8 +815,8 @@
 		"sublocation": "",
 		"address": "Lower Bridge Street",
 		"postcode": "CH1 1RS",
-		"lat": 53.18743171,
-		"lon": -2.89000799
+		"latitude": 53.18743171,
+		"longitude": -2.89000799
 	},
 	{
 		"name": "The Golden Lion",
@@ -824,8 +824,8 @@
 		"sublocation": "",
 		"address": "Main Street",
 		"postcode": "WA6 7AR",
-		"lat": 53.29533656,
-		"lon": -2.72674729
+		"latitude": 53.29533656,
+		"longitude": -2.72674729
 	},
 	{
 		"name": "The Belle Monte Hotel",
@@ -833,8 +833,8 @@
 		"sublocation": "",
 		"address": "Bellemonte Road",
 		"postcode": "WA6 6BJ",
-		"lat": 53.28690968,
-		"lon": -2.72098591
+		"latitude": 53.28690968,
+		"longitude": -2.72098591
 	},
 	{
 		"name": "The Wortley Almshouses",
@@ -842,8 +842,8 @@
 		"sublocation": "",
 		"address": "Westgate",
 		"postcode": "PE1 1QA",
-		"lat": 52.57527394,
-		"lon": -0.24528553
+		"latitude": 52.57527394,
+		"longitude": -0.24528553
 	},
 	{
 		"name": "Ye Olde Murenger House",
@@ -851,8 +851,8 @@
 		"sublocation": "",
 		"address": "53 High Street",
 		"postcode": "NP20 1GA",
-		"lat": 51.58914935,
-		"lon": -2.99726953
+		"latitude": 51.58914935,
+		"longitude": -2.99726953
 	},
 	{
 		"name": "The Waterguard",
@@ -860,8 +860,8 @@
 		"sublocation": "",
 		"address": "Harbour Drive",
 		"postcode": "CF10 4PA",
-		"lat": 51.46230278,
-		"lon": -3.16137244
+		"latitude": 51.46230278,
+		"longitude": -3.16137244
 	},
 	{
 		"name": "The Lion of Vienna",
@@ -869,8 +869,8 @@
 		"sublocation": "",
 		"address": "158, Chorley New Road",
 		"postcode": "BL1 4PE",
-		"lat": 53.58018905,
-		"lon": -2.45691439
+		"latitude": 53.58018905,
+		"longitude": -2.45691439
 	},
 	{
 		"name": "The Bridgewater Hotel",
@@ -878,8 +878,8 @@
 		"sublocation": "",
 		"address": "27 Buckley Lane",
 		"postcode": "BL4 9PF",
-		"lat": 53.54225015,
-		"lon": -2.40144094
+		"latitude": 53.54225015,
+		"longitude": -2.40144094
 	},
 	{
 		"name": "The St Marys Vaults",
@@ -887,8 +887,8 @@
 		"sublocation": "",
 		"address": "19, St. Marys Street",
 		"postcode": "PE9 2DG",
-		"lat": 52.65190785,
-		"lon": -0.47754069
+		"latitude": 52.65190785,
+		"longitude": -0.47754069
 	},
 	{
 		"name": "The Victoria Hotel",
@@ -896,8 +896,8 @@
 		"sublocation": "Cleveleys",
 		"address": "183 Victoria Road West",
 		"postcode": "FY5 3PZ",
-		"lat": 53.8756192,
-		"lon": -3.0306868
+		"latitude": 53.8756192,
+		"longitude": -3.0306868
 	},
 	{
 		"name": "The Bispham Hotel",
@@ -905,8 +905,8 @@
 		"sublocation": "Bispham",
 		"address": "Red Bank Road",
 		"postcode": "FY2 9HY",
-		"lat": 53.84969416,
-		"lon": -3.04956955
+		"latitude": 53.84969416,
+		"longitude": -3.04956955
 	},
 	{
 		"name": "The Petre Arms",
@@ -914,8 +914,8 @@
 		"sublocation": "Langho",
 		"address": "Whalley Road",
 		"postcode": "BB6 8AB",
-		"lat": 53.80953639,
-		"lon": -2.44109166
+		"latitude": 53.80953639,
+		"longitude": -2.44109166
 	},
 	{
 		"name": "The Greyhound Inn",
@@ -923,8 +923,8 @@
 		"sublocation": "Altham West",
 		"address": "Whalley Road",
 		"postcode": "BB5 5EF",
-		"lat": 53.76752018,
-		"lon": -2.37569404
+		"latitude": 53.76752018,
+		"longitude": -2.37569404
 	},
 	{
 		"name": "Tim Bobbin Hotel",
@@ -932,8 +932,8 @@
 		"sublocation": "",
 		"address": "319 Padiham Road",
 		"postcode": "BB12 6PR",
-		"lat": 53.79347708,
-		"lon": -2.26947588
+		"latitude": 53.79347708,
+		"longitude": -2.26947588
 	},
 	{
 		"name": "The Red Lion Hotel",
@@ -941,8 +941,8 @@
 		"sublocation": "",
 		"address": "31 Market Street",
 		"postcode": "BB8 0LJ",
-		"lat": 53.85730567,
-		"lon": -2.16713083
+		"latitude": 53.85730567,
+		"longitude": -2.16713083
 	},
 	{
 		"name": "The Turf Tavern",
@@ -950,8 +950,8 @@
 		"sublocation": "",
 		"address": "564 Edenfield Road",
 		"postcode": "OL12 7QJ",
-		"lat": 53.62260415,
-		"lon": -2.19852915
+		"latitude": 53.62260415,
+		"longitude": -2.19852915
 	},
 	{
 		"name": "The Eagle",
@@ -959,8 +959,8 @@
 		"sublocation": "",
 		"address": "59 Oldham Road",
 		"postcode": "OL16 5QJ",
-		"lat": 53.61314088,
-		"lon": -2.1515288
+		"latitude": 53.61314088,
+		"longitude": -2.1515288
 	},
 	{
 		"name": "The Queens Head",
@@ -968,8 +968,8 @@
 		"sublocation": "",
 		"address": "12 Little Underbank",
 		"postcode": "SK1 1JT",
-		"lat": 53.41098819,
-		"lon": -2.1575289
+		"latitude": 53.41098819,
+		"longitude": -2.1575289
 	},
 	{
 		"name": "The Sun in September",
@@ -977,8 +977,8 @@
 		"sublocation": "",
 		"address": "588 Burnage Lane",
 		"postcode": "M19 1NA",
-		"lat": 53.42145416,
-		"lon": -2.21072783
+		"latitude": 53.42145416,
+		"longitude": -2.21072783
 	},
 	{
 		"name": "The Vine",
@@ -986,8 +986,8 @@
 		"sublocation": "Dunham Massey",
 		"address": "Barns Lane",
 		"postcode": "WA14 5RU",
-		"lat": 53.38783306,
-		"lon": -2.41592219
+		"latitude": 53.38783306,
+		"longitude": -2.41592219
 	},
 	{
 		"name": "The Windmill Inn",
@@ -995,8 +995,8 @@
 		"sublocation": "Carrington",
 		"address": "Manchester Road",
 		"postcode": "M31 4BD",
-		"lat": 53.43153723,
-		"lon": -2.39128878
+		"latitude": 53.43153723,
+		"longitude": -2.39128878
 	},
 	{
 		"name": "The Railway Tavern",
@@ -1004,8 +1004,8 @@
 		"sublocation": "Flixton, Urmston",
 		"address": "142 Irlam Road",
 		"postcode": "M41 6NA",
-		"lat": 53.44813735,
-		"lon": -2.39392807
+		"latitude": 53.44813735,
+		"longitude": -2.39392807
 	},
 	{
 		"name": "The Albert Edward",
@@ -1013,8 +1013,8 @@
 		"sublocation": "",
 		"address": "Church Street",
 		"postcode": "M30 0LS",
-		"lat": 53.48317602,
-		"lon": -2.33889987
+		"latitude": 53.48317602,
+		"longitude": -2.33889987
 	},
 	{
 		"name": "The Bird in Hand",
@@ -1022,8 +1022,8 @@
 		"sublocation": "",
 		"address": "Knolls Green Village",
 		"postcode": "WA16 7BW",
-		"lat": 53.31188889,
-		"lon": -2.297964
+		"latitude": 53.31188889,
+		"longitude": -2.297964
 	},
 	{
 		"name": "The Whipping Stocks",
@@ -1031,8 +1031,8 @@
 		"sublocation": "Over Peover",
 		"address": "Stocks Lane",
 		"postcode": "WA16 9EX",
-		"lat": 53.26876604,
-		"lon": -2.34938195
+		"latitude": 53.26876604,
+		"longitude": -2.34938195
 	},
 	{
 		"name": "The Swan",
@@ -1040,8 +1040,8 @@
 		"sublocation": "",
 		"address": "Station Road",
 		"postcode": "CW4 7AU",
-		"lat": 53.19905807,
-		"lon": -2.35201319
+		"latitude": 53.19905807,
+		"longitude": -2.35201319
 	},
 	{
 		"name": "The Malt Shovel",
@@ -1049,8 +1049,8 @@
 		"sublocation": "",
 		"address": "8 Briggate",
 		"postcode": "HX5 9DP",
-		"lat": 53.68768692,
-		"lon": -1.83927139
+		"latitude": 53.68768692,
+		"longitude": -1.83927139
 	},
 	{
 		"name": "The Boar's Head",
@@ -1058,8 +1058,8 @@
 		"sublocation": "",
 		"address": "2 Vernon Street",
 		"postcode": "SK1 1TY",
-		"lat": 53.4122656,
-		"lon": -2.15670814
+		"latitude": 53.4122656,
+		"longitude": -2.15670814
 	},
 	{
 		"name": "The Agar Arms",
@@ -1067,8 +1067,8 @@
 		"sublocation": "",
 		"address": "Warthill",
 		"postcode": "YO19 5XW",
-		"lat": 53.98844692,
-		"lon": -0.97061386
+		"latitude": 53.98844692,
+		"longitude": -0.97061386
 	},
 	{
 		"name": "The Albion Inn",
@@ -1076,8 +1076,8 @@
 		"sublocation": "Eastmoor",
 		"address": "94, Stanley Road ",
 		"postcode": "WF1 4LR",
-		"lat": 53.68581146,
-		"lon": -1.48872796
+		"latitude": 53.68581146,
+		"longitude": -1.48872796
 	},
 	{
 		"name": "The Angler's Retreat (Freehouse selling Sam Smith's beers)",
@@ -1085,8 +1085,8 @@
 		"sublocation": "Wintersett",
 		"address": "Ferry Top Lane",
 		"postcode": "WF4 2EB",
-		"lat": 53.63621347,
-		"lon": -1.42372999
+		"latitude": 53.63621347,
+		"longitude": -1.42372999
 	},
 	{
 		"name": "The Bath Hotel",
@@ -1094,8 +1094,8 @@
 		"sublocation": "",
 		"address": "Halifax Road",
 		"postcode": "WF13 2AL",
-		"lat": 53.69555064,
-		"lon": -1.63492981
+		"latitude": 53.69555064,
+		"longitude": -1.63492981
 	},
 	{
 		"name": "The Bay Horse",
@@ -1103,8 +1103,8 @@
 		"sublocation": "",
 		"address": "Tunstall",
 		"postcode": "DL10 7QS",
-		"lat": 54.35678741,
-		"lon": -1.67027613
+		"latitude": 54.35678741,
+		"longitude": -1.67027613
 	},
 	{
 		"name": "The Berkeley Hotel",
@@ -1112,8 +1112,8 @@
 		"sublocation": "",
 		"address": "Doncaster Road",
 		"postcode": "DN15 7DS",
-		"lat": 53.59041115,
-		"lon": -0.68398227
+		"latitude": 53.59041115,
+		"longitude": -0.68398227
 	},
 	{
 		"name": "The Blacksmiths Arms",
@@ -1121,8 +1121,8 @@
 		"sublocation": "",
 		"address": "Farlington",
 		"postcode": "YO61 1NW",
-		"lat": 54.10088002,
-		"lon": -1.06240978
+		"latitude": 54.10088002,
+		"longitude": -1.06240978
 	},
 	{
 		"name": "The Blacksmiths Arms",
@@ -1130,8 +1130,8 @@
 		"sublocation": "Skelton",
 		"address": "Shipton Road",
 		"postcode": "YO30 1XW",
-		"lat": 53.99944032,
-		"lon": -1.13628855
+		"latitude": 53.99944032,
+		"longitude": -1.13628855
 	},
 	{
 		"name": "The Brown Cow",
@@ -1139,8 +1139,8 @@
 		"sublocation": "",
 		"address": "36 Hope Street",
 		"postcode": "YO10 4UR",
-		"lat": 53.95478961,
-		"lon": -1.07311716
+		"latitude": 53.95478961,
+		"longitude": -1.07311716
 	},
 	{
 		"name": "The Brown Cow Inn",
@@ -1148,8 +1148,8 @@
 		"sublocation": "",
 		"address": "886 Little Horton Lane",
 		"postcode": "BD5 9EL",
-		"lat": 53.7761599,
-		"lon": -1.77234174
+		"latitude": 53.7761599,
+		"longitude": -1.77234174
 	},
 	{
 		"name": "The Brunton Arms",
@@ -1157,8 +1157,8 @@
 		"sublocation": "Nunthorpe",
 		"address": "Gypsy Lane",
 		"postcode": "TS7 0AQ",
-		"lat": 54.53117924,
-		"lon": -1.18477253
+		"latitude": 54.53117924,
+		"longitude": -1.18477253
 	},
 	{
 		"name": "The Bull's Head",
@@ -1166,8 +1166,8 @@
 		"sublocation": "Tingley",
 		"address": "Dewsbury Road",
 		"postcode": "WF3 1LY",
-		"lat": 53.72521011,
-		"lon": -1.58545378
+		"latitude": 53.72521011,
+		"longitude": -1.58545378
 	},
 	{
 		"name": "The Bullet Sports and Social Club",
@@ -1175,8 +1175,8 @@
 		"sublocation": "Grimethorpe",
 		"address": "63 Brierley Road",
 		"postcode": "S72 7EJ",
-		"lat": 53.57890077,
-		"lon": -1.37841424
+		"latitude": 53.57890077,
+		"longitude": -1.37841424
 	},
 	{
 		"name": "The Castle",
@@ -1184,8 +1184,8 @@
 		"sublocation": "Sheriff Hutton",
 		"address": "Main Street",
 		"postcode": "YO60 6ST",
-		"lat": 54.08880951,
-		"lon": -1.00234477
+		"latitude": 54.08880951,
+		"longitude": -1.00234477
 	},
 	{
 		"name": "The Cow and Calf",
@@ -1193,8 +1193,8 @@
 		"sublocation": "Grenoside",
 		"address": "88 Skew Hill Lane",
 		"postcode": "S35 8QX",
-		"lat": 53.43694456,
-		"lon": -1.5037029
+		"latitude": 53.43694456,
+		"longitude": -1.5037029
 	},
 	{
 		"name": "The Flying Dutchman",
@@ -1202,8 +1202,8 @@
 		"sublocation": "",
 		"address": "Summerbridge",
 		"postcode": "HG3 4HP",
-		"lat": 54.05718518,
-		"lon": -1.69321437
+		"latitude": 54.05718518,
+		"longitude": -1.69321437
 	},
 	{
 		"name": "The Greyhound Inn",
@@ -1211,8 +1211,8 @@
 		"sublocation": "",
 		"address": "Main Street",
 		"postcode": "LS24 9PY",
-		"lat": 53.82584976,
-		"lon": -1.27820406
+		"latitude": 53.82584976,
+		"longitude": -1.27820406
 	},
 	{
 		"name": "The Holly Bush",
@@ -1220,8 +1220,8 @@
 		"sublocation": "Edenthorpe",
 		"address": "Church Balk",
 		"postcode": "DN3 2PR",
-		"lat": 53.55785106,
-		"lon": -1.07576986
+		"latitude": 53.55785106,
+		"longitude": -1.07576986
 	},
 	{
 		"name": "The Horse and Jockey Inn",
@@ -1229,8 +1229,8 @@
 		"sublocation": "",
 		"address": "18 Dale Street",
 		"postcode": "WF5 9BT",
-		"lat": 53.68070432,
-		"lon": -1.5793598
+		"latitude": 53.68070432,
+		"longitude": -1.5793598
 	},
 	{
 		"name": "The Linthorpe Hotel",
@@ -1238,8 +1238,8 @@
 		"sublocation": "",
 		"address": "The Crescent",
 		"postcode": "TS5 6SQ",
-		"lat": 54.55690273,
-		"lon": -1.24700783
+		"latitude": 54.55690273,
+		"longitude": -1.24700783
 	},
 	{
 		"name": "Goose and Cowslip",
@@ -1247,8 +1247,8 @@
 		"sublocation": "New Crofton",
 		"address": "1 Santingley Lane",
 		"postcode": "WF4 1NG",
-		"lat": 53.65302128,
-		"lon": -1.42221991
+		"latitude": 53.65302128,
+		"longitude": -1.42221991
 	},
 	{
 		"name": "The Malt Shovel Inn",
@@ -1256,8 +1256,8 @@
 		"sublocation": "",
 		"address": "Oswaldkirk",
 		"postcode": "YO62 5XT",
-		"lat": 54.20343737,
-		"lon": -1.04609402
+		"latitude": 54.20343737,
+		"longitude": -1.04609402
 	},
 	{
 		"name": "The Mill Inn",
@@ -1265,8 +1265,8 @@
 		"sublocation": "",
 		"address": "Withington",
 		"postcode": "GL54 4BE",
-		"lat": 51.83696897,
-		"lon": -1.955116
+		"latitude": 51.83696897,
+		"longitude": -1.955116
 	},
 	{
 		"name": "The New Broom",
@@ -1274,8 +1274,8 @@
 		"sublocation": "",
 		"address": "Broom Valley Road",
 		"postcode": "S60 2QY",
-		"lat": 53.4190517,
-		"lon": -1.34061118
+		"latitude": 53.4190517,
+		"longitude": -1.34061118
 	},
 	{
 		"name": "The Oak Tree",
@@ -1283,8 +1283,8 @@
 		"sublocation": "Catterick Village",
 		"address": "Low Green",
 		"postcode": "DL10 7LU",
-		"lat": 54.37498051,
-		"lon": -1.63349806
+		"latitude": 54.37498051,
+		"longitude": -1.63349806
 	},
 	{
 		"name": "The Old Crown",
@@ -1292,8 +1292,8 @@
 		"sublocation": "",
 		"address": "81-83 Westgate Street",
 		"postcode": "GL1 2PG",
-		"lat": 51.86693365,
-		"lon": -2.24933555
+		"latitude": 51.86693365,
+		"longitude": -2.24933555
 	},
 	{
 		"name": "Old Mother Red Cap",
@@ -1301,8 +1301,8 @@
 		"sublocation": "Bradway",
 		"address": "87 Everard Avenue",
 		"postcode": "S17 4LY",
-		"lat": 53.31849392,
-		"lon": -1.51626637
+		"latitude": 53.31849392,
+		"longitude": -1.51626637
 	},
 	{
 		"name": "The Rugby Tavern",
@@ -1310,8 +1310,8 @@
 		"sublocation": "",
 		"address": "5, Dock Street",
 		"postcode": "HU1 3DL",
-		"lat": 53.74516402,
-		"lon": -0.33812483
+		"latitude": 53.74516402,
+		"longitude": -0.33812483
 	},
 	{
 		"name": "The Savile Arms",
@@ -1319,8 +1319,8 @@
 		"sublocation": "Eakring",
 		"address": "Bilsthorpe Road",
 		"postcode": "NG22 0DG",
-		"lat": 53.15374491,
-		"lon": -0.99740913
+		"latitude": 53.15374491,
+		"longitude": -0.99740913
 	},
 	{
 		"name": "The Six Bells",
@@ -1328,8 +1328,8 @@
 		"sublocation": "Strensall",
 		"address": "Ox Carr Lane",
 		"postcode": "YO32 5TD",
-		"lat": 54.02824884,
-		"lon": -1.03981086
+		"latitude": 54.02824884,
+		"longitude": -1.03981086
 	},
 	{
 		"name": "The Star Inn",
@@ -1337,8 +1337,8 @@
 		"sublocation": "Netherton",
 		"address": "211 Netherton Lane",
 		"postcode": "WF4 4HJ",
-		"lat": 53.64445842,
-		"lon": -1.57915864
+		"latitude": 53.64445842,
+		"longitude": -1.57915864
 	},
 	{
 		"name": "New Inn (formery The Swordsman)",
@@ -1346,8 +1346,8 @@
 		"sublocation": "",
 		"address": "12 The Square",
 		"postcode": "YO41 1AF ",
-		"lat": 53.99119881,
-		"lon": -0.91545292
+		"latitude": 53.99119881,
+		"longitude": -0.91545292
 	},
 	{
 		"name": "The Trafalgar Bay",
@@ -1355,8 +1355,8 @@
 		"sublocation": "",
 		"address": "7, Nunnery Lane",
 		"postcode": "YO23 1AB",
-		"lat": 53.9544346,
-		"lon": -1.08878263
+		"latitude": 53.9544346,
+		"longitude": -1.08878263
 	},
 	{
 		"name": "The Travellers Rest",
@@ -1364,8 +1364,8 @@
 		"sublocation": "",
 		"address": "93 Langsett Road South",
 		"postcode": "S35 0GY",
-		"lat": 53.43341006,
-		"lon": -1.53624346
+		"latitude": 53.43341006,
+		"longitude": -1.53624346
 	},
 	{
 		"name": "The White House",
@@ -1373,8 +1373,8 @@
 		"sublocation": "Featherstone",
 		"address": "Pontefract Road",
 		"postcode": "WF7 5HG",
-		"lat": 53.6744299,
-		"lon": -1.34755542
+		"latitude": 53.6744299,
+		"longitude": -1.34755542
 	},
 	{
 		"name": "Ye Olde Parkgate Inn",
@@ -1382,8 +1382,8 @@
 		"sublocation": "Over Peover",
 		"address": "Stocks Lane",
 		"postcode": "WA16 8TU",
-		"lat": 53.26177949,
-		"lon": -2.32228895
+		"latitude": 53.26177949,
+		"longitude": -2.32228895
 	},
 	{
 		"name": "Ye Old Blue Bell",
@@ -1391,8 +1391,8 @@
 		"sublocation": "",
 		"address": "Market Place",
 		"postcode": "HU1 1RQ",
-		"lat": 53.74238333,
-		"lon": -0.33360799
+		"latitude": 53.74238333,
+		"longitude": -0.33360799
 	},
 	{
 		"name": "The Wheel Inn",
@@ -1400,8 +1400,8 @@
 		"sublocation": "Wrenthorpe",
 		"address": "282 Bradford Road",
 		"postcode": "WF2 0LY",
-		"lat": 53.70400276,
-		"lon": -1.5201328
+		"latitude": 53.70400276,
+		"longitude": -1.5201328
 	},
 	{
 		"name": "The Buckles Inn",
@@ -1409,8 +1409,8 @@
 		"sublocation": "Bilbrough",
 		"address": "Tadcaster Road",
 		"postcode": "YO23 3PW",
-		"lat": 53.91507563,
-		"lon": -1.17560037
+		"latitude": 53.91507563,
+		"longitude": -1.17560037
 	},
 	{
 		"name": "The Crystal Palace",
@@ -1418,8 +1418,8 @@
 		"sublocation": "",
 		"address": "66-68 Holgate Road",
 		"postcode": "YO24 4AB",
-		"lat": 53.95379066,
-		"lon": -1.0970036
+		"latitude": 53.95379066,
+		"longitude": -1.0970036
 	},
 	{
 		"name": "The Star Inn",
@@ -1427,8 +1427,8 @@
 		"sublocation": "",
 		"address": "Harlington Road",
 		"postcode": "S64 0DF",
-		"lat": 53.49740751,
-		"lon": -1.27955475
+		"latitude": 53.49740751,
+		"longitude": -1.27955475
 	},
 	{
 		"name": "The Doo'Cot Roadhouse",
@@ -1436,8 +1436,8 @@
 		"sublocation": "",
 		"address": "731, Ferry Road",
 		"postcode": "EH4 2UA",
-		"lat": 55.96666525,
-		"lon": -3.25113662
+		"latitude": 55.96666525,
+		"longitude": -3.25113662
 	},
 	{
 		"name": "The Red Lion",
@@ -1445,8 +1445,8 @@
 		"sublocation": "Conisbrough",
 		"address": "Sheffield Road",
 		"postcode": "DN12 2BY",
-		"lat": 53.47880506,
-		"lon": -1.22870811
+		"latitude": 53.47880506,
+		"longitude": -1.22870811
 	},
 	{
 		"name": "The Tankard Inn",
@@ -1454,8 +1454,8 @@
 		"sublocation": "Rufforth",
 		"address": "Wetherby Road",
 		"postcode": "YO23 3QF",
-		"lat": 53.95520559,
-		"lon": -1.19397887
+		"latitude": 53.95520559,
+		"longitude": -1.19397887
 	},
 	{
 		"name": "The Gamecock Hotel",
@@ -1463,8 +1463,8 @@
 		"sublocation": "Harworth",
 		"address": "117 Bawtry Road",
 		"postcode": "DN11 8NT",
-		"lat": 53.42196975,
-		"lon": -1.06526502
+		"latitude": 53.42196975,
+		"longitude": -1.06526502
 	},
 	{
 		"name": "The Ridgewood",
@@ -1472,8 +1472,8 @@
 		"sublocation": "Edenthorpe",
 		"address": "Thorne Road",
 		"postcode": "DN3 2JD",
-		"lat": 53.5521477,
-		"lon": -1.06892892
+		"latitude": 53.5521477,
+		"longitude": -1.06892892
 	},
 	{
 		"name": "The Spread Eagle",
@@ -1481,8 +1481,8 @@
 		"sublocation": "Wragby",
 		"address": "Doncaster Road",
 		"postcode": "WF4 1QX",
-		"lat": 53.64857995,
-		"lon": -1.37816884
+		"latitude": 53.64857995,
+		"longitude": -1.37816884
 	},
 	{
 		"name": "The Manor",
@@ -1490,8 +1490,8 @@
 		"sublocation": "Maltby",
 		"address": "Braithwell Road",
 		"postcode": "S66 8JT",
-		"lat": 53.42929606,
-		"lon": -1.20735773
+		"latitude": 53.42929606,
+		"longitude": -1.20735773
 	},
 	{
 		"name": "The Lumley Arms",
@@ -1499,8 +1499,8 @@
 		"sublocation": "Maltby",
 		"address": "Tickhill Road",
 		"postcode": "S66 7PW",
-		"lat": 53.42120732,
-		"lon": -1.18613341
+		"latitude": 53.42120732,
+		"longitude": -1.18613341
 	},
 	{
 		"name": "The Fox & Hounds",
@@ -1508,8 +1508,8 @@
 		"sublocation": "",
 		"address": "286 High Street",
 		"postcode": "LS23 6AJ",
-		"lat": 53.90182066,
-		"lon": -1.33766343
+		"latitude": 53.90182066,
+		"longitude": -1.33766343
 	},
 	{
 		"name": "The Admiral Hawke",
@@ -1517,8 +1517,8 @@
 		"sublocation": "",
 		"address": "252 High Street",
 		"postcode": "LS23 6AJ",
-		"lat": 53.90279252,
-		"lon": -1.34057899
+		"latitude": 53.90279252,
+		"longitude": -1.34057899
 	},
 	{
 		"name": "The Eston Hotel",
@@ -1526,8 +1526,8 @@
 		"sublocation": "Eston",
 		"address": "Fabian Road",
 		"postcode": "TS6 9BB",
-		"lat": 54.56510818,
-		"lon": -1.15681319
+		"latitude": 54.56510818,
+		"longitude": -1.15681319
 	},
 	{
 		"name": "The Victoria Social Club",
@@ -1535,8 +1535,8 @@
 		"sublocation": "Arksey",
 		"address": "4 Ings Lane",
 		"postcode": "DN5 0SZ",
-		"lat": 53.55519706,
-		"lon": -1.1257988
+		"latitude": 53.55519706,
+		"longitude": -1.1257988
 	},
 	{
 		"name": "The Radcliffe Arms",
@@ -1544,8 +1544,8 @@
 		"sublocation": "Folifoot",
 		"address": "Pannal Road",
 		"postcode": "HG3 1DR",
-		"lat": 53.968522,
-		"lon": -1.48169269
+		"latitude": 53.968522,
+		"longitude": -1.48169269
 	},
 	{
 		"name": "The Harewood Arms Hotel",
@@ -1553,8 +1553,8 @@
 		"sublocation": "Harewood",
 		"address": "29 Harrogate Road",
 		"postcode": "LS17 9LH",
-		"lat": 53.89937274,
-		"lon": -1.5102904
+		"latitude": 53.89937274,
+		"longitude": -1.5102904
 	},
 	{
 		"name": "The Red Bear Hotel",
@@ -1562,8 +1562,8 @@
 		"sublocation": "",
 		"address": "4 Low Street",
 		"postcode": "LS25 6BG",
-		"lat": 53.79732864,
-		"lon": -1.25195881
+		"latitude": 53.79732864,
+		"longitude": -1.25195881
 	},
 	{
 		"name": "The Blue Bell",
@@ -1571,8 +1571,8 @@
 		"sublocation": "Levenshulme",
 		"address": "170 Barlow Road",
 		"postcode": "M19 3HF",
-		"lat": 53.44515731,
-		"lon": -2.18431612
+		"latitude": 53.44515731,
+		"longitude": -2.18431612
 	},
 	{
 		"name": "The Cross Keys Inn",
@@ -1580,8 +1580,8 @@
 		"sublocation": "Stillingfleet",
 		"address": "Cawood Road",
 		"postcode": "YO19 6SB",
-		"lat": 53.859371,
-		"lon": -1.09738578
+		"latitude": 53.859371,
+		"longitude": -1.09738578
 	},
 	{
 		"name": "The Crows Nest Hotel",
@@ -1589,8 +1589,8 @@
 		"sublocation": "",
 		"address": "Balmoral Road",
 		"postcode": "DN35 9ND",
-		"lat": 53.55168389,
-		"lon": -0.04841944
+		"latitude": 53.55168389,
+		"longitude": -0.04841944
 	},
 	{
 		"name": "The Marquis Of Granby",
@@ -1598,8 +1598,8 @@
 		"sublocation": "Framwellgate Moor",
 		"address": "Front Street",
 		"postcode": "DH1 5BL",
-		"lat": 54.79612502,
-		"lon": -1.58999761
+		"latitude": 54.79612502,
+		"longitude": -1.58999761
 	},
 	{
 		"name": "The Black Dog",
@@ -1607,8 +1607,8 @@
 		"sublocation": "",
 		"address": "Rooley Moor Road",
 		"postcode": "OL12 7JG",
-		"lat": 53.63116667,
-		"lon": -2.18663355
+		"latitude": 53.63116667,
+		"longitude": -2.18663355
 	},
 	{
 		"name": "The Open Hearth",
@@ -1616,8 +1616,8 @@
 		"sublocation": "",
 		"address": "Warley Road",
 		"postcode": "DN16 1QX",
-		"lat": 53.57177864,
-		"lon": -0.63266625
+		"latitude": 53.57177864,
+		"longitude": -0.63266625
 	},
 	{
 		"name": "The Queen Bess",
@@ -1625,8 +1625,8 @@
 		"sublocation": "",
 		"address": "Derwent Road",
 		"postcode": "DN16 2PE",
-		"lat": 53.56571466,
-		"lon": -0.63095232
+		"latitude": 53.56571466,
+		"longitude": -0.63095232
 	},
 	{
 		"name": "The Sherpa Hotel",
@@ -1634,8 +1634,8 @@
 		"sublocation": "",
 		"address": "Grange Lane South",
 		"postcode": "DN16 3BJ",
-		"lat": 53.56104064,
-		"lon": -0.63791533
+		"latitude": 53.56104064,
+		"longitude": -0.63791533
 	},
 	{
 		"name": "Alpine Gasthof",
@@ -1643,8 +1643,8 @@
 		"sublocation": "",
 		"address": "164 Whitworth Road",
 		"postcode": "OL12 0JG",
-		"lat": 53.62623107,
-		"lon": -2.1561261
+		"latitude": 53.62623107,
+		"longitude": -2.1561261
 	},
 	{
 		"name": "The Valley Inn",
@@ -1652,8 +1652,8 @@
 		"sublocation": "Drighlington",
 		"address": "68 Whitehall Road",
 		"postcode": "BD11 1NB",
-		"lat": 53.76357575,
-		"lon": -1.64860387
+		"latitude": 53.76357575,
+		"longitude": -1.64860387
 	},
 	{
 		"name": "The Golden Lion Hotel",
@@ -1661,8 +1661,8 @@
 		"sublocation": "Loftus",
 		"address": "85 High Street",
 		"postcode": "TS13 4HG",
-		"lat": 54.55358604,
-		"lon": -0.88493605
+		"latitude": 54.55358604,
+		"longitude": -0.88493605
 	},
 	{
 		"name": "Robert Raikes's House",
@@ -1670,8 +1670,8 @@
 		"sublocation": "",
 		"address": "36/38 Southgate Street",
 		"postcode": "GL1 2DR",
-		"lat": 51.86444757,
-		"lon": -2.24732658
+		"latitude": 51.86444757,
+		"longitude": -2.24732658
 	},
 	{
 		"name": "Kingsway Hotel",
@@ -1679,8 +1679,8 @@
 		"sublocation": "",
 		"address": "125 Kingsway",
 		"postcode": "OL16 5HS",
-		"lat": 53.60717195,
-		"lon": -2.13658085
+		"latitude": 53.60717195,
+		"longitude": -2.13658085
 	},
 	{
 		"name": "The Red Grouse",
@@ -1688,8 +1688,8 @@
 		"sublocation": "Stocksbridge",
 		"address": "Spink Hall Lane",
 		"postcode": "S36 1FL",
-		"lat": 53.47647996,
-		"lon": -1.59749707
+		"latitude": 53.47647996,
+		"longitude": -1.59749707
 	},
 	{
 		"name": "Highfield House",
@@ -1697,8 +1697,8 @@
 		"sublocation": "",
 		"address": "Shelford Street",
 		"postcode": "DN15 6NT",
-		"lat": 53.58980139,
-		"lon": -0.64966073
+		"latitude": 53.58980139,
+		"longitude": -0.64966073
 	},
 	{
 		"name": "The Windmill Inn",
@@ -1706,8 +1706,8 @@
 		"sublocation": "",
 		"address": "Woolmarket",
 		"postcode": "WF8 1AZ",
-		"lat": 53.6924311,
-		"lon": -1.31028076
+		"latitude": 53.6924311,
+		"longitude": -1.31028076
 	},
 	{
 		"name": "The Crown Inn",
@@ -1715,8 +1715,8 @@
 		"sublocation": "",
 		"address": "Bolton Percy",
 		"postcode": "YO23 7AG",
-		"lat": 53.86457745,
-		"lon": -1.1938246
+		"latitude": 53.86457745,
+		"longitude": -1.1938246
 	},
 	{
 		"name": "The Moorgate",
@@ -1724,8 +1724,8 @@
 		"sublocation": "Kippax",
 		"address": "Leeds Road",
 		"postcode": "LS25 7EP",
-		"lat": 53.77379466,
-		"lon": -1.37387594
+		"latitude": 53.77379466,
+		"longitude": -1.37387594
 	},
 	{
 		"name": "White Gates Inn",
@@ -1733,8 +1733,8 @@
 		"sublocation": "",
 		"address": "Manchester Road",
 		"postcode": "SK14 2BT",
-		"lat": 53.4531848,
-		"lon": -2.08967706
+		"latitude": 53.4531848,
+		"longitude": -2.08967706
 	},
 	{
 		"name": "The Junction Inn",
@@ -1742,8 +1742,8 @@
 		"sublocation": "Royton",
 		"address": "221 Rochdale Road",
 		"postcode": "OL2 5RA",
-		"lat": 53.57017154,
-		"lon": -2.12599953
+		"latitude": 53.57017154,
+		"longitude": -2.12599953
 	},
 	{
 		"name": "The Flower of the Valley",
@@ -1751,8 +1751,8 @@
 		"sublocation": "",
 		"address": "122, Halifax Road",
 		"postcode": "OL16 2NJ",
-		"lat": 53.6270105,
-		"lon": -2.14216789
+		"latitude": 53.6270105,
+		"longitude": -2.14216789
 	},
 	{
 		"name": "The Crown Inn",
@@ -1760,8 +1760,8 @@
 		"sublocation": "",
 		"address": "142 Victoria Street",
 		"postcode": "SK13 8JF",
-		"lat": 53.43886828,
-		"lon": -1.95220312
+		"latitude": 53.43886828,
+		"longitude": -1.95220312
 	},
 	{
 		"name": "The Royal Oak",
@@ -1769,8 +1769,8 @@
 		"sublocation": "Shaw",
 		"address": "Oak Croft, Shawcroft Close",
 		"postcode": "OL2 7DA ",
-		"lat": 53.5724651,
-		"lon": -2.10266431
+		"latitude": 53.5724651,
+		"longitude": -2.10266431
 	},
 	{
 		"name": "The Pleasant Inn",
@@ -1778,8 +1778,8 @@
 		"sublocation": "Royton",
 		"address": "730, Rochdale Road",
 		"postcode": "OL2 6XQ",
-		"lat": 53.58115882,
-		"lon": -2.13519682
+		"latitude": 53.58115882,
+		"longitude": -2.13519682
 	},
 	{
 		"name": "The Old Bulls Head",
@@ -1787,8 +1787,8 @@
 		"sublocation": "High Crompton, Shaw",
 		"address": "Rochdale Road",
 		"postcode": "OL2 7PD",
-		"lat": 53.58450747,
-		"lon": -2.11313297
+		"latitude": 53.58450747,
+		"longitude": -2.11313297
 	},
 	{
 		"name": "The Roebuck Hotel",
@@ -1796,8 +1796,8 @@
 		"sublocation": "",
 		"address": "Yorkshire Street",
 		"postcode": "OL16 1BH",
-		"lat": 53.61741775,
-		"lon": -2.15855887
+		"latitude": 53.61741775,
+		"longitude": -2.15855887
 	},
 	{
 		"name": "The Commercial Inn",
@@ -1805,8 +1805,8 @@
 		"sublocation": "Shaw",
 		"address": "30, Smallbrook Road",
 		"postcode": "OL2 7UH",
-		"lat": 53.58500584,
-		"lon": -2.09133466
+		"latitude": 53.58500584,
+		"longitude": -2.09133466
 	},
 	{
 		"name": "The Higher Bird in Hand",
@@ -1814,8 +1814,8 @@
 		"sublocation": "Newhey",
 		"address": "113 Huddersfield Road",
 		"postcode": "OL16 3QG",
-		"lat": 53.60292906,
-		"lon": -2.09121128
+		"latitude": 53.60292906,
+		"longitude": -2.09121128
 	},
 	{
 		"name": "The Slip Inn",
@@ -1823,8 +1823,8 @@
 		"sublocation": "Milnrow",
 		"address": "Newhey Road",
 		"postcode": "OL16 3PS",
-		"lat": 53.60569988,
-		"lon": -2.10443993
+		"latitude": 53.60569988,
+		"longitude": -2.10443993
 	},
 	{
 		"name": "The Lower Bird in Hand",
@@ -1832,8 +1832,8 @@
 		"sublocation": "Newhey",
 		"address": "41 Huddersfield Road",
 		"postcode": "OL16 3QZ",
-		"lat": 53.60175287,
-		"lon": -2.09400078
+		"latitude": 53.60175287,
+		"longitude": -2.09400078
 	},
 	{
 		"name": "The Grapes Inn",
@@ -1841,8 +1841,8 @@
 		"sublocation": "Heywood",
 		"address": "Peel Lane",
 		"postcode": "OL10 4PR",
-		"lat": 53.59607841,
-		"lon": -2.22884884
+		"latitude": 53.59607841,
+		"longitude": -2.22884884
 	},
 	{
 		"name": "The Riflemans Arms",
@@ -1850,8 +1850,8 @@
 		"sublocation": "",
 		"address": "11, Mizzy Road",
 		"postcode": "OL12 6HW",
-		"lat": 53.62641718,
-		"lon": -2.16285308
+		"latitude": 53.62641718,
+		"longitude": -2.16285308
 	},
 	{
 		"name": "The Star Inn",
@@ -1859,8 +1859,8 @@
 		"sublocation": "Norden",
 		"address": "Edenfield Road",
 		"postcode": "OL12 7PD",
-		"lat": 53.62300185,
-		"lon": -2.19135424
+		"latitude": 53.62300185,
+		"longitude": -2.19135424
 	},
 	{
 		"name": "The Nelson Hotel",
@@ -1868,8 +1868,8 @@
 		"sublocation": "",
 		"address": "131 Drake Street",
 		"postcode": "OL16 1QB",
-		"lat": 53.61249963,
-		"lon": -2.15637287
+		"latitude": 53.61249963,
+		"longitude": -2.15637287
 	},
 	{
 		"name": "The Bridge Inn",
@@ -1877,8 +1877,8 @@
 		"sublocation": "",
 		"address": "Calf Hey South, Well i'th Lane",
 		"postcode": "OL11 2JS",
-		"lat": 53.60295452,
-		"lon": -2.14726408
+		"latitude": 53.60295452,
+		"longitude": -2.14726408
 	},
 	{
 		"name": "The Brownhill Hotel",
@@ -1886,8 +1886,8 @@
 		"sublocation": "",
 		"address": "Heights Lane",
 		"postcode": "OL12 0PX",
-		"lat": 53.62117716,
-		"lon": -2.1612223
+		"latitude": 53.62117716,
+		"longitude": -2.1612223
 	},
 	{
 		"name": "The Horse & Jockey",
@@ -1895,8 +1895,8 @@
 		"sublocation": "",
 		"address": "1-3, Well i'th Lane",
 		"postcode": "OL11 1AU",
-		"lat": 53.60529246,
-		"lon": -2.1491765
+		"latitude": 53.60529246,
+		"longitude": -2.1491765
 	},
 	{
 		"name": "The Yew Tree",
@@ -1904,8 +1904,8 @@
 		"sublocation": "",
 		"address": "Oldham Road",
 		"postcode": "OL11 2AZ",
-		"lat": 53.59029175,
-		"lon": -2.14093943
+		"latitude": 53.59029175,
+		"longitude": -2.14093943
 	},
 	{
 		"name": "The White Lion",
@@ -1913,8 +1913,8 @@
 		"sublocation": "Norden",
 		"address": "942, Edenfield Road",
 		"postcode": "OL12 7SS",
-		"lat": 53.62928507,
-		"lon": -2.22418716
+		"latitude": 53.62928507,
+		"longitude": -2.22418716
 	},
 	{
 		"name": "The Cole Street Sports and Social Club",
@@ -1922,8 +1922,8 @@
 		"sublocation": "",
 		"address": "Cole Street",
 		"postcode": "DN15 6QT",
-		"lat": 53.58983483,
-		"lon": -0.64571788
+		"latitude": 53.58983483,
+		"longitude": -0.64571788
 	},
 	{
 		"name": "The Pig and Whistle",
@@ -1931,8 +1931,8 @@
 		"sublocation": "",
 		"address": "Winterton Road",
 		"postcode": "DN15 0DH",
-		"lat": 53.59408381,
-		"lon": -0.6436043
+		"latitude": 53.59408381,
+		"longitude": -0.6436043
 	},
 	{
 		"name": "The Coach and Horses",
@@ -1940,8 +1940,8 @@
 		"sublocation": "Weaste",
 		"address": "350 Eccles New Road",
 		"postcode": "M5 2WU",
-		"lat": 53.48182731,
-		"lon": -2.30374148
+		"latitude": 53.48182731,
+		"longitude": -2.30374148
 	},
 	{
 		"name": "The Pretoria Sports and Social Club",
@@ -1949,8 +1949,8 @@
 		"sublocation": "South Elmsall",
 		"address": "45 Westfield Lane",
 		"postcode": "WF9 2QB",
-		"lat": 53.59325284,
-		"lon": -1.29046729
+		"latitude": 53.59325284,
+		"longitude": -1.29046729
 	},
 	{
 		"name": "The Prince of Wales",
@@ -1958,8 +1958,8 @@
 		"sublocation": "",
 		"address": "230 Lower Broughton Road",
 		"postcode": "M7 2JS",
-		"lat": 53.49581662,
-		"lon": -2.26756116
+		"latitude": 53.49581662,
+		"longitude": -2.26756116
 	},
 	{
 		"name": "The Bay Horse",
@@ -1967,8 +1967,8 @@
 		"sublocation": "",
 		"address": "260, Oldham Road",
 		"postcode": "OL11 2ER",
-		"lat": 53.60263621,
-		"lon": -2.14624484
+		"latitude": 53.60263621,
+		"longitude": -2.14624484
 	},
 	{
 		"name": "The Blue Bell Hotel",
@@ -1976,8 +1976,8 @@
 		"sublocation": "Heversham",
 		"address": "Princes Way",
 		"postcode": "LA7 7EE",
-		"lat": 54.24348297,
-		"lon": -2.77649959
+		"latitude": 54.24348297,
+		"longitude": -2.77649959
 	},
 	{
 		"name": "The Red Lion",
@@ -1985,8 +1985,8 @@
 		"sublocation": "Girlington",
 		"address": "589 Thornton Road",
 		"postcode": "BD8 9RA",
-		"lat": 53.79886215,
-		"lon": -1.79216107
+		"latitude": 53.79886215,
+		"longitude": -1.79216107
 	},
 	{
 		"name": "The Spinners Arms",
@@ -1994,8 +1994,8 @@
 		"sublocation": "Hollinwood",
 		"address": "287, Manchester Road",
 		"postcode": "OL8 4RF",
-		"lat": 53.52235265,
-		"lon": -2.14174141
+		"latitude": 53.52235265,
+		"longitude": -2.14174141
 	},
 	{
 		"name": "The Speke Sports & Social Club",
@@ -2003,8 +2003,8 @@
 		"sublocation": "",
 		"address": "Bramhall Close",
 		"postcode": "L24 2TH",
-		"lat": 53.34058498,
-		"lon": -2.83680906
+		"latitude": 53.34058498,
+		"longitude": -2.83680906
 	},
 	{
 		"name": "The Ebor Inn",
@@ -2012,8 +2012,8 @@
 		"sublocation": "Bishopthorpe",
 		"address": "Main Street",
 		"postcode": "YO23 2RB",
-		"lat": 53.92161371,
-		"lon": -1.09579255
+		"latitude": 53.92161371,
+		"longitude": -1.09579255
 	},
 	{
 		"name": "The Marton Social Club",
@@ -2021,8 +2021,8 @@
 		"sublocation": "Marton",
 		"address": "Daggers Hall Lane",
 		"postcode": "FY4 4AX",
-		"lat": 53.79659039,
-		"lon": -3.02929243
+		"latitude": 53.79659039,
+		"longitude": -3.02929243
 	},
 	{
 		"name": "The Cambridge Hotel",
@@ -2030,8 +2030,8 @@
 		"sublocation": "Linthorpe",
 		"address": "161 Cambridge Road",
 		"postcode": "TS5 5HL",
-		"lat": 54.55424558,
-		"lon": -1.26171131
+		"latitude": 54.55424558,
+		"longitude": -1.26171131
 	},
 	{
 		"name": "The Black Horse Hotel",
@@ -2039,8 +2039,8 @@
 		"sublocation": "Low Moor",
 		"address": "2 Lockwood Street",
 		"postcode": "BD12 0LS",
-		"lat": 53.75096752,
-		"lon": -1.75247242
+		"latitude": 53.75096752,
+		"longitude": -1.75247242
 	},
 	{
 		"name": "All Saints Brewery Inn",
@@ -2048,8 +2048,8 @@
 		"sublocation": "",
 		"address": "22 All Saints Street",
 		"postcode": "PE9 2PA",
-		"lat": 52.65208521,
-		"lon": -0.48141648
+		"latitude": 52.65208521,
+		"longitude": -0.48141648
 	},
 	{
 		"name": "The Commercial Hotel",
@@ -2057,8 +2057,8 @@
 		"sublocation": "",
 		"address": "62 New Street",
 		"postcode": "HD1 2BW",
-		"lat": 53.64452316,
-		"lon": -1.78337146
+		"latitude": 53.64452316,
+		"longitude": -1.78337146
 	},
 	{
 		"name": "The Three Tuns Hotel",
@@ -2066,8 +2066,8 @@
 		"sublocation": "Birtley",
 		"address": "Durham Road",
 		"postcode": "DH3 1NE",
-		"lat": 54.90213956,
-		"lon": -1.57799204
+		"latitude": 54.90213956,
+		"longitude": -1.57799204
 	},
 	{
 		"name": "Corporation Brewery Taps",
@@ -2075,8 +2075,8 @@
 		"sublocation": "",
 		"address": "135 Cleveland Street",
 		"postcode": "DN1 3AR",
-		"lat": 53.51906765,
-		"lon": -1.13717367
+		"latitude": 53.51906765,
+		"longitude": -1.13717367
 	},
 	{
 		"name": "The Colliers Arms",
@@ -2084,8 +2084,8 @@
 		"sublocation": "",
 		"address": "66, Park Road",
 		"postcode": "HX5 9HZ",
-		"lat": 53.69469263,
-		"lon": -1.83193018
+		"latitude": 53.69469263,
+		"longitude": -1.83193018
 	},
 	{
 		"name": "St James Bowling Club",
@@ -2093,8 +2093,8 @@
 		"sublocation": "",
 		"address": "Eaves Lane",
 		"postcode": "PR6 0PX",
-		"lat": 53.65079522,
-		"lon": -2.61737486
+		"latitude": 53.65079522,
+		"longitude": -2.61737486
 	},
 	{
 		"name": "The George & Vulture",
@@ -2102,8 +2102,8 @@
 		"sublocation": "Fenchurch Street",
 		"address": "3 Castle Court",
 		"postcode": "EC3V 9DL",
-		"lat": 51.51322103,
-		"lon": -0.085965
+		"latitude": 51.51322103,
+		"longitude": -0.085965
 	},
 	{
 		"name": "The Edmund Arms",
@@ -2111,8 +2111,8 @@
 		"sublocation": "Worsbrough",
 		"address": "25 Worsbrough Road",
 		"postcode": "S70 5LW",
-		"lat": 53.51931484,
-		"lon": -1.47468944
+		"latitude": 53.51931484,
+		"longitude": -1.47468944
 	},
 	{
 		"name": "The Waggon and Horses",
@@ -2120,8 +2120,8 @@
 		"sublocation": "Fairburn",
 		"address": "Great North Road",
 		"postcode": "WF11 9JY",
-		"lat": 53.74578105,
-		"lon": -1.28464957
+		"latitude": 53.74578105,
+		"longitude": -1.28464957
 	},
 	{
 		"name": "The Red Lion (freehouse)",
@@ -2129,8 +2129,8 @@
 		"sublocation": "Bramham",
 		"address": "The Square",
 		"postcode": "LS23 6QU",
-		"lat": 53.88050517,
-		"lon": -1.35507902
+		"latitude": 53.88050517,
+		"longitude": -1.35507902
 	},
 	{
 		"name": "The Crown Inn",
@@ -2138,8 +2138,8 @@
 		"sublocation": "",
 		"address": "25 High Street",
 		"postcode": "LS22 6LR",
-		"lat": 53.92778893,
-		"lon": -1.38576868
+		"latitude": 53.92778893,
+		"longitude": -1.38576868
 	},
 	{
 		"name": "The Royal Oak",
@@ -2147,8 +2147,8 @@
 		"sublocation": "",
 		"address": "117 - 121 Grange Road",
 		"postcode": "NE32 3QW",
-		"lat": 54.98172632,
-		"lon": -1.48540218
+		"latitude": 54.98172632,
+		"longitude": -1.48540218
 	},
 	{
 		"name": "Prince Of Wales Tavern",
@@ -2156,8 +2156,8 @@
 		"sublocation": "",
 		"address": "2 Lidell Street",
 		"postcode": "NE30 1HE",
-		"lat": 55.00718814,
-		"lon": -1.44107331
+		"latitude": 55.00718814,
+		"longitude": -1.44107331
 	},
 	{
 		"name": "White House",
@@ -2165,8 +2165,8 @@
 		"sublocation": "Denton",
 		"address": "170 Ashton Road",
 		"postcode": "M34 3JD",
-		"lat": 53.46204355,
-		"lon": -2.11660375
+		"latitude": 53.46204355,
+		"longitude": -2.11660375
 	},
 	{
 		"name": "White House",
@@ -2174,8 +2174,8 @@
 		"sublocation": "",
 		"address": "Henshaw Street",
 		"postcode": "OL1 3EN",
-		"lat": 53.55084968,
-		"lon": -2.1107914
+		"latitude": 53.55084968,
+		"longitude": -2.1107914
 	},
 	{
 		"name": "Viking Hotel",
@@ -2183,8 +2183,8 @@
 		"sublocation": "",
 		"address": "25 Broughton Avenue",
 		"postcode": "TS4 3PX",
-		"lat": 54.54359524,
-		"lon": -1.21604134
+		"latitude": 54.54359524,
+		"longitude": -1.21604134
 	},
 	{
 		"name": "Brown Hare",
@@ -2192,8 +2192,8 @@
 		"sublocation": "",
 		"address": "388, Harehills Lane",
 		"postcode": "LS9 6JF",
-		"lat": 53.8059032,
-		"lon": -1.50525053
+		"latitude": 53.8059032,
+		"longitude": -1.50525053
 	},
 	{
 		"name": "Fighting Cocks",
@@ -2201,8 +2201,8 @@
 		"sublocation": "Rawmarsh",
 		"address": "Claypits Lane",
 		"postcode": "S62 5JT",
-		"lat": 53.46480763,
-		"lon": -1.32710358
+		"latitude": 53.46480763,
+		"longitude": -1.32710358
 	},
 	{
 		"name": "Engineer's Arms",
@@ -2210,8 +2210,8 @@
 		"sublocation": "Higham",
 		"address": "Higham Common Road",
 		"postcode": "S75 1PF",
-		"lat": 53.56136405,
-		"lon": -1.53285583
+		"latitude": 53.56136405,
+		"longitude": -1.53285583
 	},
 	{
 		"name": "White Hart Hotel",
@@ -2219,8 +2219,8 @@
 		"sublocation": "Ollerton",
 		"address": "Market Place",
 		"postcode": "NG22 9BL",
-		"lat": 53.19902754,
-		"lon": -1.02287402
+		"latitude": 53.19902754,
+		"longitude": -1.02287402
 	},
 	{
 		"name": "Fountain Inn",
@@ -2228,8 +2228,8 @@
 		"sublocation": "Morley",
 		"address": "Queen Street",
 		"postcode": "LS27 9EB",
-		"lat": 53.74306225,
-		"lon": -1.59953555
+		"latitude": 53.74306225,
+		"longitude": -1.59953555
 	},
 	{
 		"name": "Blands Arms",
@@ -2237,8 +2237,8 @@
 		"sublocation": "Micklefield",
 		"address": "Great North Road",
 		"postcode": "LS25 4AQ",
-		"lat": 53.79421869,
-		"lon": -1.32743885
+		"latitude": 53.79421869,
+		"longitude": -1.32743885
 	},
 	{
 		"name": "Ryhill Village Social Club",
@@ -2246,8 +2246,8 @@
 		"sublocation": "Ryhill",
 		"address": "73, Station Road",
 		"postcode": "WF4 2BP",
-		"lat": 53.62352522,
-		"lon": -1.42184456
+		"latitude": 53.62352522,
+		"longitude": -1.42184456
 	},
 	{
 		"name": "Snydale Road Sports & Social Club",
@@ -2255,8 +2255,8 @@
 		"sublocation": "Cudworth",
 		"address": "Methley Street",
 		"postcode": "S72 8JU ",
-		"lat": 53.57488437,
-		"lon": -1.41437729
+		"latitude": 53.57488437,
+		"longitude": -1.41437729
 	},
 	{
 		"name": "Havercroft Sports & Social Club",
@@ -2264,8 +2264,8 @@
 		"sublocation": "Havercroft",
 		"address": "83 Cow Lane",
 		"postcode": "WF4 2HF ",
-		"lat": 53.62396269,
-		"lon": -1.40442898
+		"latitude": 53.62396269,
+		"longitude": -1.40442898
 	},
 	{
 		"name": "Cudworth Industrial Sports & Social Club",
@@ -2273,8 +2273,8 @@
 		"sublocation": "Cudworth",
 		"address": "1, James Street",
 		"postcode": "S72 8AN",
-		"lat": 53.5851794,
-		"lon": -1.40995969
+		"latitude": 53.5851794,
+		"longitude": -1.40995969
 	},
 	{
 		"name": "Red Rum",
@@ -2282,8 +2282,8 @@
 		"sublocation": "Grimethorpe",
 		"address": "Cemetery Road",
 		"postcode": "S72 7NR",
-		"lat": 53.5733188,
-		"lon": -1.37358895
+		"latitude": 53.5733188,
+		"longitude": -1.37358895
 	},
 	{
 		"name": "Lundwood Sports & Social Club",
@@ -2291,8 +2291,8 @@
 		"sublocation": "",
 		"address": "Pontefract Road",
 		"postcode": "S71 5PN",
-		"lat": 53.55882293,
-		"lon": -1.43757035
+		"latitude": 53.55882293,
+		"longitude": -1.43757035
 	},
 	{
 		"name": "Pinfold Hotel",
@@ -2300,8 +2300,8 @@
 		"sublocation": "Cudworth",
 		"address": "Darfield Road",
 		"postcode": "S72 8HF",
-		"lat": 53.57141391,
-		"lon": -1.41041568
+		"latitude": 53.57141391,
+		"longitude": -1.41041568
 	},
 	{
 		"name": "Shoulder of Mutton",
@@ -2309,8 +2309,8 @@
 		"sublocation": "Appleton Roebuck",
 		"address": "Chapel Green",
 		"postcode": "YO23 7DP",
-		"lat": 53.87602413,
-		"lon": -1.15681549
+		"latitude": 53.87602413,
+		"longitude": -1.15681549
 	},
 	{
 		"name": "Roebuck Inn",
@@ -2318,8 +2318,8 @@
 		"sublocation": "Appleton Roebuck",
 		"address": "Appleton House, Main Street",
 		"postcode": "YO23 7DG",
-		"lat": 53.87296745,
-		"lon": -1.16061886
+		"latitude": 53.87296745,
+		"longitude": -1.16061886
 	},
 	{
 		"name": "Rockingham Arms",
@@ -2327,8 +2327,8 @@
 		"sublocation": "",
 		"address": "Studfall Avenue",
 		"postcode": "NN17 1LQ",
-		"lat": 52.49544573,
-		"lon": -0.70666303
+		"latitude": 52.49544573,
+		"longitude": -0.70666303
 	},
 	{
 		"name": "Hop Pole Hotel",
@@ -2336,8 +2336,8 @@
 		"sublocation": "Ollerton",
 		"address": "Main Street",
 		"postcode": "NG22 9AD",
-		"lat": 53.19993373,
-		"lon": -1.0226809
+		"latitude": 53.19993373,
+		"longitude": -1.0226809
 	},
 	{
 		"name": "Station Hotel",
@@ -2345,8 +2345,8 @@
 		"sublocation": "Hunslet",
 		"address": "67 Hillidge Road",
 		"postcode": "LS10 1DQ",
-		"lat": 53.77928198,
-		"lon": -1.53599804
+		"latitude": 53.77928198,
+		"longitude": -1.53599804
 	},
 	{
 		"name": "Avenel Club ",
@@ -2354,8 +2354,8 @@
 		"sublocation": "Allerton",
 		"address": "1, Avenel Terrace",
 		"postcode": "BD15 7LX",
-		"lat": 53.80185929,
-		"lon": -1.81984146
+		"latitude": 53.80185929,
+		"longitude": -1.81984146
 	},
 	{
 		"name": "Brierley Village club",
@@ -2363,8 +2363,8 @@
 		"sublocation": "Brierley",
 		"address": "Church Street",
 		"postcode": "S72 9JE",
-		"lat": 53.59379409,
-		"lon": -1.38066595
+		"latitude": 53.59379409,
+		"longitude": -1.38066595
 	},
 	{
 		"name": "Ackworth Village Club",
@@ -2372,8 +2372,8 @@
 		"sublocation": "Ackworth Moor Top",
 		"address": "Stonecliffe House, 52 Wakefield Road",
 		"postcode": "WF7 7AB",
-		"lat": 53.64100197,
-		"lon": -1.34782364
+		"latitude": 53.64100197,
+		"longitude": -1.34782364
 	},
 	{
 		"name": "Corporation Inn",
@@ -2381,8 +2381,8 @@
 		"sublocation": "",
 		"address": "55 Milkstone Road",
 		"postcode": "OL11 1EB",
-		"lat": 53.61018755,
-		"lon": -2.1568503
+		"latitude": 53.61018755,
+		"longitude": -2.1568503
 	},
 	{
 		"name": "White Rose",
@@ -2390,8 +2390,8 @@
 		"sublocation": "Rossington",
 		"address": "Grange Lane",
 		"postcode": "DN11 0QZ",
-		"lat": 53.47333828,
-		"lon": -1.08013247
+		"latitude": 53.47333828,
+		"longitude": -1.08013247
 	},
 	{
 		"name": "Redhill Sports and Social Club",
@@ -2399,8 +2399,8 @@
 		"sublocation": "",
 		"address": "37 Redhill Drive",
 		"postcode": "WF10 3EB",
-		"lat": 53.72100562,
-		"lon": -1.32796054
+		"latitude": 53.72100562,
+		"longitude": -1.32796054
 	},
 	{
 		"name": "York Street Working Mens Club & Institute",
@@ -2408,8 +2408,8 @@
 		"sublocation": "",
 		"address": "15 Upper York Street",
 		"postcode": "WF1 3LQ",
-		"lat": 53.68633996,
-		"lon": -1.49924373
+		"latitude": 53.68633996,
+		"longitude": -1.49924373
 	},
 	{
 		"name": "Arlington Hotel",
@@ -2417,8 +2417,8 @@
 		"sublocation": "Loftus",
 		"address": "Arlington Street",
 		"postcode": "TS13 4LA",
-		"lat": 54.55403947,
-		"lon": -0.88085105
+		"latitude": 54.55403947,
+		"longitude": -0.88085105
 	},
 	{
 		"name": "Kingfisher Hotel",
@@ -2426,8 +2426,8 @@
 		"sublocation": "",
 		"address": "Farndale Square",
 		"postcode": "TS10 5HN",
-		"lat": 54.6060007,
-		"lon": -1.08840843
+		"latitude": 54.6060007,
+		"longitude": -1.08840843
 	},
 	{
 		"name": "Engineers Arms",
@@ -2435,8 +2435,8 @@
 		"sublocation": "",
 		"address": "13, Aspinall Street",
 		"postcode": "OL10 4HL",
-		"lat": 53.59352665,
-		"lon": -2.21253966
+		"latitude": 53.59352665,
+		"longitude": -2.21253966
 	},
 	{
 		"name": "Adam & Eve",
@@ -2444,8 +2444,8 @@
 		"sublocation": "",
 		"address": "2 Frederick Street",
 		"postcode": "NE33 5EA",
-		"lat": 54.98949367,
-		"lon": -1.43729677
+		"latitude": 54.98949367,
+		"longitude": -1.43729677
 	},
 	{
 		"name": "Windmill Hotel",
@@ -2453,8 +2453,8 @@
 		"sublocation": "Pendlebury, Swinton",
 		"address": "690 Bolton Road",
 		"postcode": "M27 8FH",
-		"lat": 53.51906685,
-		"lon": -2.33314385
+		"latitude": 53.51906685,
+		"longitude": -2.33314385
 	},
 	{
 		"name": "The Turnpike",
@@ -2462,8 +2462,8 @@
 		"sublocation": "",
 		"address": "522 Wilmslow Road",
 		"postcode": "M20 4BT",
-		"lat": 53.4317929,
-		"lon": -2.22873216
+		"latitude": 53.4317929,
+		"longitude": -2.22873216
 	},
 	{
 		"name": "Bentley North End Sports & Social Club",
@@ -2471,8 +2471,8 @@
 		"sublocation": "Bentley",
 		"address": "Askern Road",
 		"postcode": "DN5 0EP",
-		"lat": 53.55285827,
-		"lon": -1.14726146
+		"latitude": 53.55285827,
+		"longitude": -1.14726146
 	},
 	{
 		"name": "Half Way House Inn",
@@ -2480,8 +2480,8 @@
 		"sublocation": "Queensbury",
 		"address": "36, Sandbeds",
 		"postcode": "BD13 1AF",
-		"lat": 53.76913178,
-		"lon": -1.84145739
+		"latitude": 53.76913178,
+		"longitude": -1.84145739
 	},
 	{
 		"name": "Ward Green Working Men's Club",
@@ -2489,8 +2489,8 @@
 		"sublocation": "Worsbrough",
 		"address": "129, Mount Vernon Road",
 		"postcode": "S70 4HH",
-		"lat": 53.53587588,
-		"lon": -1.47578915
+		"latitude": 53.53587588,
+		"longitude": -1.47578915
 	},
 	{
 		"name": "Falcon Inn",
@@ -2498,8 +2498,8 @@
 		"sublocation": "",
 		"address": "10 Chapel Street",
 		"postcode": "LS24 9AR",
-		"lat": 53.88388381,
-		"lon": -1.26353522
+		"latitude": 53.88388381,
+		"longitude": -1.26353522
 	},
 	{
 		"name": "The Saxon Hotel",
@@ -2507,8 +2507,8 @@
 		"sublocation": "Kiveton Park ",
 		"address": "Station Road",
 		"postcode": "S26 6QP",
-		"lat": 53.34152021,
-		"lon": -1.25605454
+		"latitude": 53.34152021,
+		"longitude": -1.25605454
 	},
 	{
 		"name": "The White Bear (Freehouse selling Samuel Smith's beer)",
@@ -2516,8 +2516,8 @@
 		"sublocation": "Stillington",
 		"address": "Main Street",
 		"postcode": "YO61 1JU",
-		"lat": 54.10278504,
-		"lon": -1.10720134
+		"latitude": 54.10278504,
+		"longitude": -1.10720134
 	},
 	{
 		"name": "Rawmarsh Progressive Sports and Social Club (Titanic)",
@@ -2525,8 +2525,8 @@
 		"sublocation": "Rawmarsh",
 		"address": "Willow Garth",
 		"postcode": "S62 5RB",
-		"lat": 53.46422002,
-		"lon": -1.33619358
+		"latitude": 53.46422002,
+		"longitude": -1.33619358
 	},
 	{
 		"name": "The Bar Ambika (Freehouse selling Samuel Smith's beer)",
@@ -2534,7 +2534,7 @@
 		"sublocation": "",
 		"address": "400 Beverley Road",
 		"postcode": "HU5 1LW",
-		"lat": 53.76419093,
-		"lon": -0.35164048
+		"latitude": 53.76419093,
+		"longitude": -0.35164048
 	}
 ]

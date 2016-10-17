@@ -11,13 +11,14 @@ html
 		#map
 
 		#info-template
-			.title
+			.name
+			.distance
 			.location
 			.sublocation
 			.address
 			.postcode
 
+		script(src=`/static/smithboys.js`)
 		script(async, defer, src=`https://maps.googleapis.com/maps/api/js?key=${GMAPS_API_KEY}&callback=initMap`)
 		script
 			!= `var pubs = ${JSON.stringify(pubs)}`
-		script(src=`/static/smithboys.js`)

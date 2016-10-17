@@ -17,10 +17,10 @@ const extractData = data => data.split( '\n' )
 		sublocation: row[ 3 ],
 		address: row[ 4 ],
 		postcode: row[ 5 ],
-		lat: Number( row[ 7 ] ),
-		lon: Number( row[ 8 ] )
+		latitude: Number( row[ 7 ] ),
+		longitude: Number( row[ 8 ] )
 	} ) )
-	.filter( row => row.name && row.lat && row.lon )
+	.filter( row => row.name && row.latitude && row.longitude )
 	.filter( row => !( /closed/i ).test( row.name ) )
 
 
