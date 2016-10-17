@@ -35,6 +35,8 @@ getData( ( err, data ) => {
 	const host = process.env.OPENSHIFT_DIY_IP ? process.env.OPENSHIFT_DIY_IP : ''
 	const port = process.env.OPENSHIFT_DIY_PORT ? process.env.OPENSHIFT_DIY_PORT : 9003
 
+	console.info( `Listening on ${host}:${port}` )
+
 	if ( host ) {
 		app.listen( host, port, () => console.info( 'S M I T H B O Y S started' ) )
 	} else {
