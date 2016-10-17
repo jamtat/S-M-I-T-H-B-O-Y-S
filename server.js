@@ -14,7 +14,7 @@ app.use( '/health', ( req, res ) => res.status( 200 ).end() )
 
 app.use( '/env', ( req, res ) => res.send( `Version: ${process.version}` ) )
 
-app.use( '/static', express.static( __dirname + '/static' ) )
+app.use( '/static', express.static( __dirname + '/built' ) )
 app.get( '/', ( req, res ) => res.render( 'index', Object.assign( {
 	pubs
 }, process.env ) ) )

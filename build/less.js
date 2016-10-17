@@ -13,7 +13,7 @@ const compileLess = () => {
 	less.render( utils.file `src/less/index.less`, LessOptions )
 		.then(
 			output => {
-				utils.writeFile( 'static/smithboys.css', output.css )
+				utils.writeFile( 'built/smithboys.css', output.css )
 			},
 			error => console.error( error )
 		)

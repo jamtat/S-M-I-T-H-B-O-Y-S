@@ -10,6 +10,6 @@ const compileJS = () => browserify( utils.resolve `src/js/index.js` )
 		presets: [ 'es2015' ]
 	} )
 	.bundle()
-	.pipe( fs.createWriteStream( utils.resolve `static/smithboys.js` ) )
+	.pipe( fs.createWriteStream( utils.resolve `built/smithboys.js` ) )
 
 module.exports = compileJS
