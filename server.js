@@ -1,11 +1,5 @@
 'use strict'
 
-try {
-	require( 'dotenv' ).config()
-} catch ( e ) {
-	// Do nothing
-}
-
 require( './build/build' )
 const getData = require( './build/get-data' )
 
@@ -39,7 +33,7 @@ getData( ( err, data ) => {
 
 	console.info( `Got data on ${pubs.length} pubs` )
 	const host = process.env.OPENSHIFT_DIY_IP ? process.env.OPENSHIFT_DIY_IP : ''
-	const port = process.env.OPENSHIFT_DIY_PORT ? process.env.OPENSHIFT_DIY_PORT : process.env.PORT
+	const port = process.env.OPENSHIFT_DIY_PORT ? process.env.OPENSHIFT_DIY_PORT : 9003
 
 	if ( host ) {
 		app.listen( host, port, () => console.info( 'S M I T H B O Y S started' ) )
