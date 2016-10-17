@@ -1,6 +1,10 @@
 'use strict'
 
-require( 'dotenv' ).config()
+try {
+	require( 'dotenv' ).config()
+} catch ( e ) {
+	// Do nothing
+}
 
 require( './build/build' )
 const getData = require( './build/get-data' )
