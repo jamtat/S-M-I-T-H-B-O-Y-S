@@ -7,6 +7,11 @@ html
 		link(rel='stylesheet' href='/static/smithboys.css')
 		meta(name='viewport' content='width=device-width, initial-scale=1, user-scaleble=no')
 
+		script.
+			if ( location.hostname.indexOf( 'local' ) === -1 && location.protocol !== 'https:' ) {
+				location.protocol = 'https:'
+			}
+
 	body
 
 		#map
