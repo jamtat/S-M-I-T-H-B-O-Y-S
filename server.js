@@ -1,5 +1,6 @@
 'use strict'
 
+require( 'dotenv' ).config()
 require( './build/build' )
 const getData = require( './build/get-data' )
 
