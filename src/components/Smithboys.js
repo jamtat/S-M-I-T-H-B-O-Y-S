@@ -47,7 +47,7 @@ class Smithboys extends React.Component {
 		}
 
 		await timer( 100 )
-
+		console.log( 'Data fetch complete, fetching location' )
 		this.fetchLocation()
 	}
 

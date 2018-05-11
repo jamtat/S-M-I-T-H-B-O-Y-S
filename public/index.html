@@ -12,6 +12,13 @@
 			You need to enable JavaScript to run this app.
 		</noscript>
 		<div id="root"></div>
+		<script type="text/javascript">
+		if(location.hostname !==  'localhost') {
+			if(location.protocol.indexOf('https') !== 0) {
+				location.protocol = 'https'
+			}
+		}
+		</script>
 		<script  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCoafQLCqUqEMB8rRcYGEeeIx6Jx8bBJKI"></script>
 	  </body>
 </html>
