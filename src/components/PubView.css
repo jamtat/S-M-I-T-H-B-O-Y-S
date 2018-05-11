@@ -1,0 +1,36 @@
+.pub-view {
+	flex: 0 0 auto;
+	overflow: hidden;
+	width: 100%;
+	display: flex;
+	padding: .5rem;
+	background: #222222;
+	color: white;
+	z-index: 100;
+	position: relative;
+	border-radius: 2px;
+}
+
+.pub-view-left {
+	flex: 1;
+	position: relative;
+	z-index: 10;
+}
+
+.pub-view-right {
+	flex: 0 0 100px;
+	text-align: center;
+	font-weight: 600;
+	color: white;
+	text-shadow: 0 0 4px black;
+	font-size: 1.5rem;
+	padding-left: 0.5rem;
+	align-self: center;
+	position: relative;
+	z-index: 10;
+}
+
+.pub-view-name {
+	font-size: 1.5em;
+	font-weight: 600;
+}
