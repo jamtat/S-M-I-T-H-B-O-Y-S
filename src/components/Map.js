@@ -9,7 +9,7 @@ const locationFromPub = ( { lat, lng } ) => ({
 
 const markerFromPub = ( pub, selected, onPubClick ) => (
 	<Marker
-		key={ pub.id }
+		key={ pub.name + pub.postcode }
 		title={ pub.name }
 		onClick={ () => onPubClick( pub ) }
 		position={ locationFromPub( pub ) } />
